@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+*.Zone.Identifier
+analisis/
+ventas/
+analysis_report.txt
+Nationwide Recipe Book 2025.xlsx

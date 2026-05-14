@@ -1,0 +1,793 @@
+product_name,category,ingredient,unit,size,quantity
+Caffé Latte,01. Hot Classics,Espresso,Shot,size_1,2 Standard
+Caffé Latte,01. Hot Classics,Espresso,Shot,size_2,2 Lungo
+Caffé Latte,01. Hot Classics,Espresso,Shot,size_3,3 Standard
+Caffé Latte,01. Hot Classics,Milk,Oz,size_1,12
+Caffé Latte,01. Hot Classics,Milk,Oz,size_2,14
+Caffé Latte,01. Hot Classics,Milk,Oz,size_3,16
+Caffé Latte,01. Hot Classics,Syrup (Optional),Pump,size_1,4
+Caffé Latte,01. Hot Classics,Syrup (Optional),Pump,size_2,5
+Caffé Latte,01. Hot Classics,Syrup (Optional),Pump,size_3,6
+Drip Coffee,01. Hot Classics,Syrup (Optional),Pump,size_1,4
+Drip Coffee,01. Hot Classics,Syrup (Optional),Pump,size_2,5
+Drip Coffee,01. Hot Classics,Syrup (Optional),Pump,size_3,6
+Cappuccino,01. Hot Classics,Espresso,Shot,size_1,2 Standard
+Cappuccino,01. Hot Classics,Espresso,Shot,size_2,2 Lungo
+Cappuccino,01. Hot Classics,Espresso,Shot,size_3,3 Standard
+Cappuccino,01. Hot Classics,Milk,Oz,size_1,6
+Cappuccino,01. Hot Classics,Milk,Oz,size_2,8
+Cappuccino,01. Hot Classics,Milk,Oz,size_3,10
+Cappuccino,01. Hot Classics,Syrup (Optional),Pump,size_1,4
+Cappuccino,01. Hot Classics,Syrup (Optional),Pump,size_2,5
+Cappuccino,01. Hot Classics,Syrup (Optional),Pump,size_3,6
+Caffé Americano,01. Hot Classics,Hot Water,Oz,size_1,12
+Caffé Americano,01. Hot Classics,Hot Water,Oz,size_2,15
+Caffé Americano,01. Hot Classics,Hot Water,Oz,size_3,18
+Caffé Americano,01. Hot Classics,Espresso,Shot,size_1,3 Standard
+Caffé Americano,01. Hot Classics,Espresso,Shot,size_2,4 Standard
+Caffé Americano,01. Hot Classics,Espresso,Shot,size_3,5 Standard
+Mocha,01. Hot Classics,Espresso,Shot,size_1,2 Standard
+Mocha,01. Hot Classics,Espresso,Shot,size_2,2 Lungo
+Mocha,01. Hot Classics,Espresso,Shot,size_3,3 Standard
+Mocha,01. Hot Classics,Chocolate Sauce,Pump,size_1,2
+Mocha,01. Hot Classics,Chocolate Sauce,Pump,size_2,3
+Mocha,01. Hot Classics,Chocolate Sauce,Pump,size_3,4
+Mocha,01. Hot Classics,Milk,Oz,size_1,10
+Mocha,01. Hot Classics,Milk,Oz,size_2,12
+Mocha,01. Hot Classics,Milk,Oz,size_3,14
+Mocha,01. Hot Classics,Whipped Cream (Optional),Rosette,size_1,1
+Mocha,01. Hot Classics,Whipped Cream (Optional),Rosette,size_2,1
+Mocha,01. Hot Classics,Whipped Cream (Optional),Rosette,size_3,1
+White Mocha,01. Hot Classics,Espresso,Shot,size_1,2 Standard
+White Mocha,01. Hot Classics,Espresso,Shot,size_2,2 Lungo
+White Mocha,01. Hot Classics,Espresso,Shot,size_3,3 Standard
+White Mocha,01. Hot Classics,White Chocolate Sauce,Pump,size_1,2
+White Mocha,01. Hot Classics,White Chocolate Sauce,Pump,size_2,3
+White Mocha,01. Hot Classics,White Chocolate Sauce,Pump,size_3,4
+White Mocha,01. Hot Classics,Milk,Oz,size_1,10
+White Mocha,01. Hot Classics,Milk,Oz,size_2,12
+White Mocha,01. Hot Classics,Milk,Oz,size_3,14
+White Mocha,01. Hot Classics,Whipped Cream (Optional),Rosette,size_1,1
+White Mocha,01. Hot Classics,Whipped Cream (Optional),Rosette,size_2,1
+White Mocha,01. Hot Classics,Whipped Cream (Optional),Rosette,size_3,1
+Latte Macchiato,01. Hot Classics,Syrup (Optional),Pump,size_1,4
+Latte Macchiato,01. Hot Classics,Syrup (Optional),Pump,size_2,5
+Latte Macchiato,01. Hot Classics,Syrup (Optional),Pump,size_3,6
+Latte Macchiato,01. Hot Classics,Milk,Oz,size_1,12
+Latte Macchiato,01. Hot Classics,Milk,Oz,size_2,14
+Latte Macchiato,01. Hot Classics,Milk,Oz,size_3,16
+Latte Macchiato,01. Hot Classics,Espresso,Shot,size_1,2 Standard
+Latte Macchiato,01. Hot Classics,Espresso,Shot,size_2,2 Lungo
+Latte Macchiato,01. Hot Classics,Espresso,Shot,size_3,3 Standard
+Chai Tea Latte,01. Hot Classics,Chai Tea Concentrate,Pump,size_1,5
+Chai Tea Latte,01. Hot Classics,Chai Tea Concentrate,Pump,size_2,6
+Chai Tea Latte,01. Hot Classics,Chai Tea Concentrate,Pump,size_3,7
+Chai Tea Latte,01. Hot Classics,Milk,Oz,size_1,12
+Chai Tea Latte,01. Hot Classics,Milk,Oz,size_2,15
+Chai Tea Latte,01. Hot Classics,Milk,Oz,size_3,18
+Matcha Latte,01. Hot Classics,Matcha (Culinary Grade),Tsp,size_1,3
+Matcha Latte,01. Hot Classics,Matcha (Culinary Grade),Tsp,size_2,4
+Matcha Latte,01. Hot Classics,Matcha (Culinary Grade),Tsp,size_3,5
+Matcha Latte,01. Hot Classics,Hot Water,Oz,size_1,2
+Matcha Latte,01. Hot Classics,Hot Water,Oz,size_2,2
+Matcha Latte,01. Hot Classics,Hot Water,Oz,size_3,2
+Matcha Latte,01. Hot Classics,Syrup (Optional),Pump,size_1,3
+Matcha Latte,01. Hot Classics,Syrup (Optional),Pump,size_2,3
+Matcha Latte,01. Hot Classics,Syrup (Optional),Pump,size_3,4
+Matcha Latte,01. Hot Classics,Milk,Oz,size_1,13
+Matcha Latte,01. Hot Classics,Milk,Oz,size_2,16
+Matcha Latte,01. Hot Classics,Milk,Oz,size_3,19
+Hot Chocolate,01. Hot Classics,Chocolate Sauce,Pump,size_1,2
+Hot Chocolate,01. Hot Classics,Chocolate Sauce,Pump,size_2,3
+Hot Chocolate,01. Hot Classics,Chocolate Sauce,Pump,size_3,4
+Hot Chocolate,01. Hot Classics,Milk,Oz,size_1,9
+Hot Chocolate,01. Hot Classics,Milk,Oz,size_2,12
+Hot Chocolate,01. Hot Classics,Milk,Oz,size_3,15
+Hot Chocolate,01. Hot Classics,Whipped Cream (Optional),Rosette,size_1,1
+Hot Chocolate,01. Hot Classics,Whipped Cream (Optional),Rosette,size_2,1
+Hot Chocolate,01. Hot Classics,Whipped Cream (Optional),Rosette,size_3,1
+Flat White,01. Hot Classics,Espresso,Shot,size_1,2 Standard
+Flat White,01. Hot Classics,Milk,Oz,size_1,5
+Caffé Au Lait,01. Hot Classics,Brewed Coffee,Oz,size_1,8
+Caffé Au Lait,01. Hot Classics,Brewed Coffee,Oz,size_2,10
+Caffé Au Lait,01. Hot Classics,Brewed Coffee,Oz,size_3,12
+Caffé Au Lait,01. Hot Classics,Milk,Oz,size_1,8
+Caffé Au Lait,01. Hot Classics,Milk,Oz,size_2,10
+Caffé Au Lait,01. Hot Classics,Milk,Oz,size_3,12
+Espresso,01. Hot Classics,Ground Espresso,Gr,size_1,16
+Espresso,01. Hot Classics,Standard Espresso Shot,Oz,size_1,2
+Espresso,01. Hot Classics,Lungo Espresso Shot,Oz,size_1,3
+Iced Latte,01.1 Iced Classics,Ice Cubes,Cup,size_1,0.75
+Iced Latte,01.1 Iced Classics,Ice Cubes,Cup,size_2,0.75
+Iced Latte,01.1 Iced Classics,Ice Cubes,Cup,size_3,0.75
+Iced Latte,01.1 Iced Classics,Cold Milk,Oz,size_1,8
+Iced Latte,01.1 Iced Classics,Cold Milk,Oz,size_2,10
+Iced Latte,01.1 Iced Classics,Cold Milk,Oz,size_3,12
+Iced Latte,01.1 Iced Classics,Espresso,Shot,size_1,2 Standard
+Iced Latte,01.1 Iced Classics,Espresso,Shot,size_2,2 Lungo
+Iced Latte,01.1 Iced Classics,Espresso,Shot,size_3,3 Standard
+Iced Latte,01.1 Iced Classics,Syrup (Optional),Pump,size_1,4
+Iced Latte,01.1 Iced Classics,Syrup (Optional),Pump,size_2,5
+Iced Latte,01.1 Iced Classics,Syrup (Optional),Pump,size_3,6
+Iced Coffee,01.1 Iced Classics,Ice Cubes,Cup,size_1,0.75
+Iced Coffee,01.1 Iced Classics,Ice Cubes,Cup,size_2,0.75
+Iced Coffee,01.1 Iced Classics,Ice Cubes,Cup,size_3,0.75
+Iced Coffee,01.1 Iced Classics,Syrup (Optional),Pumps,size_1,4
+Iced Coffee,01.1 Iced Classics,Syrup (Optional),Pumps,size_2,5
+Iced Coffee,01.1 Iced Classics,Syrup (Optional),Pumps,size_3,6
+Iced Cappuccino,01.1 Iced Classics,Cold Cappuccino Foam,Oz,size_1,2
+Iced Cappuccino,01.1 Iced Classics,Cold Cappuccino Foam,Oz,size_2,2
+Iced Cappuccino,01.1 Iced Classics,Cold Cappuccino Foam,Oz,size_3,2
+Iced Cappuccino,01.1 Iced Classics,Ice Cubes,Cup,size_1,0.6
+Iced Cappuccino,01.1 Iced Classics,Ice Cubes,Cup,size_2,0.6
+Iced Cappuccino,01.1 Iced Classics,Ice Cubes,Cup,size_3,0.6
+Iced Cappuccino,01.1 Iced Classics,Cold Milk,Oz,size_1,6
+Iced Cappuccino,01.1 Iced Classics,Cold Milk,Oz,size_2,8
+Iced Cappuccino,01.1 Iced Classics,Cold Milk,Oz,size_3,10
+Iced Cappuccino,01.1 Iced Classics,Espresso,Shot,size_1,2 Standard
+Iced Cappuccino,01.1 Iced Classics,Espresso,Shot,size_2,2 Lungo
+Iced Cappuccino,01.1 Iced Classics,Espresso,Shot,size_3,3 Standard
+Iced Cappuccino,01.1 Iced Classics,Syrup (Optional),Pump,size_1,3
+Iced Cappuccino,01.1 Iced Classics,Syrup (Optional),Pump,size_2,4
+Iced Cappuccino,01.1 Iced Classics,Syrup (Optional),Pump,size_3,5
+Iced Americano,01.1 Iced Classics,Ice Cubes,Cup,size_1,0.75
+Iced Americano,01.1 Iced Classics,Ice Cubes,Cup,size_2,0.75
+Iced Americano,01.1 Iced Classics,Ice Cubes,Cup,size_3,0.75
+Iced Americano,01.1 Iced Classics,Water,Oz,size_1,8
+Iced Americano,01.1 Iced Classics,Water,Oz,size_2,10
+Iced Americano,01.1 Iced Classics,Water,Oz,size_3,12
+Iced Americano,01.1 Iced Classics,Espresso,Shot,size_1,3 Standard
+Iced Americano,01.1 Iced Classics,Espresso,Shot,size_2,4 Standard
+Iced Americano,01.1 Iced Classics,Espresso,Shot,size_3,5 Standard
+Iced Americano,01.1 Iced Classics,Syrup (Optional),Pump,size_1,4
+Iced Americano,01.1 Iced Classics,Syrup (Optional),Pump,size_2,5
+Iced Americano,01.1 Iced Classics,Syrup (Optional),Pump,size_3,6
+Iced Mocha,01.1 Iced Classics,Ice Cubes,Cup,size_1,0.75
+Iced Mocha,01.1 Iced Classics,Ice Cubes,Cup,size_2,0.75
+Iced Mocha,01.1 Iced Classics,Ice Cubes,Cup,size_3,0.75
+Iced Mocha,01.1 Iced Classics,Cold Milk,Oz,size_1,8
+Iced Mocha,01.1 Iced Classics,Cold Milk,Oz,size_2,10
+Iced Mocha,01.1 Iced Classics,Cold Milk,Oz,size_3,12
+Iced Mocha,01.1 Iced Classics,Espresso,Shot,size_1,2 Standard
+Iced Mocha,01.1 Iced Classics,Espresso,Shot,size_2,2 Lungo
+Iced Mocha,01.1 Iced Classics,Espresso,Shot,size_3,3 Standard
+Iced Mocha,01.1 Iced Classics,Chocolate Sauce,Pump,size_1,2
+Iced Mocha,01.1 Iced Classics,Chocolate Sauce,Pump,size_2,3
+Iced Mocha,01.1 Iced Classics,Chocolate Sauce,Pump,size_3,4
+Iced Mocha,01.1 Iced Classics,Whipped Cream (Optional),Rosette,size_1,1
+Iced Mocha,01.1 Iced Classics,Whipped Cream (Optional),Rosette,size_2,1
+Iced Mocha,01.1 Iced Classics,Whipped Cream (Optional),Rosette,size_3,1
+Iced White Mocha,01.1 Iced Classics,Ice Cubes,Cup,size_1,0.75
+Iced White Mocha,01.1 Iced Classics,Ice Cubes,Cup,size_2,0.75
+Iced White Mocha,01.1 Iced Classics,Ice Cubes,Cup,size_3,0.75
+Iced White Mocha,01.1 Iced Classics,Cold Milk,Oz,size_1,8
+Iced White Mocha,01.1 Iced Classics,Cold Milk,Oz,size_2,10
+Iced White Mocha,01.1 Iced Classics,Cold Milk,Oz,size_3,12
+Iced White Mocha,01.1 Iced Classics,Espreso,Shot,size_1,2 Standard
+Iced White Mocha,01.1 Iced Classics,Espreso,Shot,size_2,2 Lungo
+Iced White Mocha,01.1 Iced Classics,Espreso,Shot,size_3,3 Standard
+Iced White Mocha,01.1 Iced Classics,White Chocolate Sauce,Pump,size_1,2
+Iced White Mocha,01.1 Iced Classics,White Chocolate Sauce,Pump,size_2,3
+Iced White Mocha,01.1 Iced Classics,White Chocolate Sauce,Pump,size_3,4
+Iced White Mocha,01.1 Iced Classics,Whipped Cream (Optional),Rosette,size_1,1
+Iced White Mocha,01.1 Iced Classics,Whipped Cream (Optional),Rosette,size_2,1
+Iced White Mocha,01.1 Iced Classics,Whipped Cream (Optional),Rosette,size_3,1
+Iced Latte Macchiato,01.1 Iced Classics,Ice Cubes,Cup,size_1,0.75
+Iced Latte Macchiato,01.1 Iced Classics,Ice Cubes,Cup,size_2,0.75
+Iced Latte Macchiato,01.1 Iced Classics,Ice Cubes,Cup,size_3,0.75
+Iced Latte Macchiato,01.1 Iced Classics,Cold Milk,Oz,size_1,8
+Iced Latte Macchiato,01.1 Iced Classics,Cold Milk,Oz,size_2,10
+Iced Latte Macchiato,01.1 Iced Classics,Cold Milk,Oz,size_3,12
+Iced Latte Macchiato,01.1 Iced Classics,Syrup (Optional),Pumo,size_1,4
+Iced Latte Macchiato,01.1 Iced Classics,Syrup (Optional),Pumo,size_2,5
+Iced Latte Macchiato,01.1 Iced Classics,Syrup (Optional),Pumo,size_3,6
+Iced Latte Macchiato,01.1 Iced Classics,Espresso,Shot,size_1,2 Standard
+Iced Latte Macchiato,01.1 Iced Classics,Espresso,Shot,size_2,2 Lungo
+Iced Latte Macchiato,01.1 Iced Classics,Espresso,Shot,size_3,3 Standard
+Iced Chai Latte,01.1 Iced Classics,Ice Cubes,Cup,size_1,0.75
+Iced Chai Latte,01.1 Iced Classics,Ice Cubes,Cup,size_2,0.75
+Iced Chai Latte,01.1 Iced Classics,Ice Cubes,Cup,size_3,0.75
+Iced Chai Latte,01.1 Iced Classics,Chai Tea Concentrate,Pump,size_1,5
+Iced Chai Latte,01.1 Iced Classics,Chai Tea Concentrate,Pump,size_2,6
+Iced Chai Latte,01.1 Iced Classics,Chai Tea Concentrate,Pump,size_3,7
+Iced Chai Latte,01.1 Iced Classics,Cold Milk,Oz,size_1,9
+Iced Chai Latte,01.1 Iced Classics,Cold Milk,Oz,size_2,11
+Iced Chai Latte,01.1 Iced Classics,Cold Milk,Oz,size_3,13
+Iced Matcha Latte,01.1 Iced Classics,Matcha (Culinary Grade),Tsp,size_1,3
+Iced Matcha Latte,01.1 Iced Classics,Matcha (Culinary Grade),Tsp,size_2,4
+Iced Matcha Latte,01.1 Iced Classics,Matcha (Culinary Grade),Tsp,size_3,5
+Iced Matcha Latte,01.1 Iced Classics,Hot Water,Oz,size_1,2
+Iced Matcha Latte,01.1 Iced Classics,Hot Water,Oz,size_2,2
+Iced Matcha Latte,01.1 Iced Classics,Hot Water,Oz,size_3,2
+Iced Matcha Latte,01.1 Iced Classics,Sweetner syrup (optional),Pump,size_1,2
+Iced Matcha Latte,01.1 Iced Classics,Sweetner syrup (optional),Pump,size_2,3
+Iced Matcha Latte,01.1 Iced Classics,Sweetner syrup (optional),Pump,size_3,4
+Iced Matcha Latte,01.1 Iced Classics,Ice Cubes,Cup,size_1,0.75
+Iced Matcha Latte,01.1 Iced Classics,Ice Cubes,Cup,size_2,0.75
+Iced Matcha Latte,01.1 Iced Classics,Ice Cubes,Cup,size_3,0.75
+Iced Matcha Latte,01.1 Iced Classics,Cold Milk,Oz,size_1,8
+Iced Matcha Latte,01.1 Iced Classics,Cold Milk,Oz,size_2,10
+Iced Matcha Latte,01.1 Iced Classics,Cold Milk,Oz,size_3,12
+Iced Coconut Latte,01.1 Iced Classics,Ice Cubes,Cup,size_1,0.6
+Iced Coconut Latte,01.1 Iced Classics,Ice Cubes,Cup,size_2,0.6
+Iced Coconut Latte,01.1 Iced Classics,Ice Cubes,Cup,size_3,0.6
+Iced Coconut Latte,01.1 Iced Classics,Milk,Oz,size_1,7
+Iced Coconut Latte,01.1 Iced Classics,Milk,Oz,size_2,9
+Iced Coconut Latte,01.1 Iced Classics,Milk,Oz,size_3,11
+Iced Coconut Latte,01.1 Iced Classics,Espresso,Shot,size_1,2 Standard
+Iced Coconut Latte,01.1 Iced Classics,Espresso,Shot,size_2,2 Lungo
+Iced Coconut Latte,01.1 Iced Classics,Espresso,Shot,size_3,3 Standard
+Iced Coconut Latte,01.1 Iced Classics,Coconut Syrup,Pump,size_1,4
+Iced Coconut Latte,01.1 Iced Classics,Coconut Syrup,Pump,size_2,5
+Iced Coconut Latte,01.1 Iced Classics,Coconut Syrup,Pump,size_3,6
+Iced Coconut Latte,01.1 Iced Classics,Coconut Cold Foam,Oz,size_1,2.5
+Iced Coconut Latte,01.1 Iced Classics,Coconut Cold Foam,Oz,size_2,2.5
+Iced Coconut Latte,01.1 Iced Classics,Coconut Cold Foam,Oz,size_3,2.5
+Iced Coconut Latte,01.1 Iced Classics,Coconut Flakes,Sprinkle,size_1,1
+Iced Coconut Latte,01.1 Iced Classics,Coconut Flakes,Sprinkle,size_2,1
+Iced Coconut Latte,01.1 Iced Classics,Coconut Flakes,Sprinkle,size_3,1
+Iced Coconut Matcha,01.1 Iced Classics,Ice Cubes,Cup,size_1,0.6
+Iced Coconut Matcha,01.1 Iced Classics,Ice Cubes,Cup,size_2,0.6
+Iced Coconut Matcha,01.1 Iced Classics,Ice Cubes,Cup,size_3,0.6
+Iced Coconut Matcha,01.1 Iced Classics,Milk,Oz,size_1,7
+Iced Coconut Matcha,01.1 Iced Classics,Milk,Oz,size_2,9
+Iced Coconut Matcha,01.1 Iced Classics,Milk,Oz,size_3,11
+Iced Coconut Matcha,01.1 Iced Classics,Hot Water,Oz,size_1,2
+Iced Coconut Matcha,01.1 Iced Classics,Hot Water,Oz,size_2,2
+Iced Coconut Matcha,01.1 Iced Classics,Hot Water,Oz,size_3,2
+Iced Coconut Matcha,01.1 Iced Classics,Matcha,Tsp,size_1,2
+Iced Coconut Matcha,01.1 Iced Classics,Matcha,Tsp,size_2,2.5
+Iced Coconut Matcha,01.1 Iced Classics,Matcha,Tsp,size_3,3
+Iced Coconut Matcha,01.1 Iced Classics,Coconut Syrup,Pump,size_1,3
+Iced Coconut Matcha,01.1 Iced Classics,Coconut Syrup,Pump,size_2,4
+Iced Coconut Matcha,01.1 Iced Classics,Coconut Syrup,Pump,size_3,5
+Iced Coconut Matcha,01.1 Iced Classics,Coconut Cold Foam,Oz,size_1,2.5
+Iced Coconut Matcha,01.1 Iced Classics,Coconut Cold Foam,Oz,size_2,2.5
+Iced Coconut Matcha,01.1 Iced Classics,Coconut Cold Foam,Oz,size_3,2.5
+Iced Coconut Matcha,01.1 Iced Classics,Coconut Flakes,Sprinkle,size_1,1
+Iced Coconut Matcha,01.1 Iced Classics,Coconut Flakes,Sprinkle,size_2,1
+Iced Coconut Matcha,01.1 Iced Classics,Coconut Flakes,Sprinkle,size_3,1
+Italian Coffee Frappe,02. Fresh & Cool,Espresso,Shot,size_1,2 Standard
+Italian Coffee Frappe,02. Fresh & Cool,Espresso,Shot,size_2,2 Lungo
+Italian Coffee Frappe,02. Fresh & Cool,Espresso,Shot,size_3,3 Standard
+Italian Coffee Frappe,02. Fresh & Cool,Espresso,Shot,size_4,3 Lungo
+Italian Coffee Frappe,02. Fresh & Cool,Milk,Oz,size_1,4
+Italian Coffee Frappe,02. Fresh & Cool,Milk,Oz,size_2,5
+Italian Coffee Frappe,02. Fresh & Cool,Milk,Oz,size_3,6
+Italian Coffee Frappe,02. Fresh & Cool,Milk,Oz,size_4,8
+Italian Coffee Frappe,02. Fresh & Cool,Syrup (Customer's Choice),Pump,size_1,4
+Italian Coffee Frappe,02. Fresh & Cool,Syrup (Customer's Choice),Pump,size_2,5
+Italian Coffee Frappe,02. Fresh & Cool,Syrup (Customer's Choice),Pump,size_3,6
+Italian Coffee Frappe,02. Fresh & Cool,Syrup (Customer's Choice),Pump,size_4,8
+Italian Coffee Frappe,02. Fresh & Cool,Vanilla Powder,Scoop,size_1,1.5
+Italian Coffee Frappe,02. Fresh & Cool,Vanilla Powder,Scoop,size_2,2
+Italian Coffee Frappe,02. Fresh & Cool,Vanilla Powder,Scoop,size_3,2.5
+Italian Coffee Frappe,02. Fresh & Cool,Vanilla Powder,Scoop,size_4,3
+Italian Coffee Frappe,02. Fresh & Cool,Ice Cubes,Cup,size_1,1
+Italian Coffee Frappe,02. Fresh & Cool,Ice Cubes,Cup,size_2,1
+Italian Coffee Frappe,02. Fresh & Cool,Ice Cubes,Cup,size_3,1
+Italian Coffee Frappe,02. Fresh & Cool,Ice Cubes,Cup,size_4,1
+Italian Coffee Frappe,02. Fresh & Cool,Whipped Cream (Optional),Rosette,size_1,1
+Italian Coffee Frappe,02. Fresh & Cool,Whipped Cream (Optional),Rosette,size_2,1
+Italian Coffee Frappe,02. Fresh & Cool,Whipped Cream (Optional),Rosette,size_3,1
+Italian Coffee Frappe,02. Fresh & Cool,Whipped Cream (Optional),Rosette,size_4,1
+Italian Mocha Frappe,02. Fresh & Cool,Espresso,Shot,size_1,2 Standard
+Italian Mocha Frappe,02. Fresh & Cool,Espresso,Shot,size_2,2 Lungo
+Italian Mocha Frappe,02. Fresh & Cool,Espresso,Shot,size_3,3 Standard
+Italian Mocha Frappe,02. Fresh & Cool,Espresso,Shot,size_4,3 Lungo
+Italian Mocha Frappe,02. Fresh & Cool,Milk,Oz,size_1,2
+Italian Mocha Frappe,02. Fresh & Cool,Milk,Oz,size_2,3
+Italian Mocha Frappe,02. Fresh & Cool,Milk,Oz,size_3,4
+Italian Mocha Frappe,02. Fresh & Cool,Milk,Oz,size_4,6
+Italian Mocha Frappe,02. Fresh & Cool,Chocolate Sauce,Pump,size_1,2
+Italian Mocha Frappe,02. Fresh & Cool,Chocolate Sauce,Pump,size_2,3
+Italian Mocha Frappe,02. Fresh & Cool,Chocolate Sauce,Pump,size_3,4
+Italian Mocha Frappe,02. Fresh & Cool,Chocolate Sauce,Pump,size_4,6
+Italian Mocha Frappe,02. Fresh & Cool,Chocolate Powder,Scoop,size_1,1.5
+Italian Mocha Frappe,02. Fresh & Cool,Chocolate Powder,Scoop,size_2,2
+Italian Mocha Frappe,02. Fresh & Cool,Chocolate Powder,Scoop,size_3,2.5
+Italian Mocha Frappe,02. Fresh & Cool,Chocolate Powder,Scoop,size_4,3
+Italian Mocha Frappe,02. Fresh & Cool,Ice Cubes,Cup,size_1,1
+Italian Mocha Frappe,02. Fresh & Cool,Ice Cubes,Cup,size_2,1
+Italian Mocha Frappe,02. Fresh & Cool,Ice Cubes,Cup,size_3,1
+Italian Mocha Frappe,02. Fresh & Cool,Ice Cubes,Cup,size_4,1
+Italian Mocha Frappe,02. Fresh & Cool,Whipped Cream (Optional),Rosette,size_1,1
+Italian Mocha Frappe,02. Fresh & Cool,Whipped Cream (Optional),Rosette,size_2,1
+Italian Mocha Frappe,02. Fresh & Cool,Whipped Cream (Optional),Rosette,size_3,1
+Italian Mocha Frappe,02. Fresh & Cool,Whipped Cream (Optional),Rosette,size_4,1
+Italian Mocha Frappe,02. Fresh & Cool,Chocolate Sauce,Drizzle,size_1,1
+Italian Mocha Frappe,02. Fresh & Cool,Chocolate Sauce,Drizzle,size_2,1
+Italian Mocha Frappe,02. Fresh & Cool,Chocolate Sauce,Drizzle,size_3,1
+Italian Mocha Frappe,02. Fresh & Cool,Chocolate Sauce,Drizzle,size_4,1
+Italian Chocolate Frappe,02. Fresh & Cool,Milk,Oz,size_1,5
+Italian Chocolate Frappe,02. Fresh & Cool,Milk,Oz,size_2,6
+Italian Chocolate Frappe,02. Fresh & Cool,Milk,Oz,size_3,7
+Italian Chocolate Frappe,02. Fresh & Cool,Milk,Oz,size_4,9
+Italian Chocolate Frappe,02. Fresh & Cool,Chocolate Sauce,Pump,size_1,2
+Italian Chocolate Frappe,02. Fresh & Cool,Chocolate Sauce,Pump,size_2,3
+Italian Chocolate Frappe,02. Fresh & Cool,Chocolate Sauce,Pump,size_3,4
+Italian Chocolate Frappe,02. Fresh & Cool,Chocolate Sauce,Pump,size_4,6
+Italian Chocolate Frappe,02. Fresh & Cool,Chocolate Powder,Scoop,size_1,1.5
+Italian Chocolate Frappe,02. Fresh & Cool,Chocolate Powder,Scoop,size_2,2
+Italian Chocolate Frappe,02. Fresh & Cool,Chocolate Powder,Scoop,size_3,2.5
+Italian Chocolate Frappe,02. Fresh & Cool,Chocolate Powder,Scoop,size_4,3
+Italian Chocolate Frappe,02. Fresh & Cool,Ice Cubes,Cup,size_1,1
+Italian Chocolate Frappe,02. Fresh & Cool,Ice Cubes,Cup,size_2,1
+Italian Chocolate Frappe,02. Fresh & Cool,Ice Cubes,Cup,size_3,1
+Italian Chocolate Frappe,02. Fresh & Cool,Ice Cubes,Cup,size_4,1
+Italian Chocolate Frappe,02. Fresh & Cool,Whipped Cream (Optional),Rosette,size_1,1
+Italian Chocolate Frappe,02. Fresh & Cool,Whipped Cream (Optional),Rosette,size_2,1
+Italian Chocolate Frappe,02. Fresh & Cool,Whipped Cream (Optional),Rosette,size_3,1
+Italian Chocolate Frappe,02. Fresh & Cool,Whipped Cream (Optional),Rosette,size_4,1
+Italian Chocolate Frappe,02. Fresh & Cool,Chocolate Sauce,Drizzle,size_1,1
+Italian Chocolate Frappe,02. Fresh & Cool,Chocolate Sauce,Drizzle,size_2,1
+Italian Chocolate Frappe,02. Fresh & Cool,Chocolate Sauce,Drizzle,size_3,1
+Italian Chocolate Frappe,02. Fresh & Cool,Chocolate Sauce,Drizzle,size_4,1
+Italian Strawberry Frappe,02. Fresh & Cool,Milk,Oz,size_1,5
+Italian Strawberry Frappe,02. Fresh & Cool,Milk,Oz,size_2,6
+Italian Strawberry Frappe,02. Fresh & Cool,Milk,Oz,size_3,7
+Italian Strawberry Frappe,02. Fresh & Cool,Milk,Oz,size_4,9
+Italian Strawberry Frappe,02. Fresh & Cool,Strawberry Fruit Puree,Pump,size_1,4
+Italian Strawberry Frappe,02. Fresh & Cool,Strawberry Fruit Puree,Pump,size_2,5
+Italian Strawberry Frappe,02. Fresh & Cool,Strawberry Fruit Puree,Pump,size_3,6
+Italian Strawberry Frappe,02. Fresh & Cool,Strawberry Fruit Puree,Pump,size_4,8
+Italian Strawberry Frappe,02. Fresh & Cool,Vanilla Powder,Scoop,size_1,1.5
+Italian Strawberry Frappe,02. Fresh & Cool,Vanilla Powder,Scoop,size_2,2
+Italian Strawberry Frappe,02. Fresh & Cool,Vanilla Powder,Scoop,size_3,2.5
+Italian Strawberry Frappe,02. Fresh & Cool,Vanilla Powder,Scoop,size_4,3
+Italian Strawberry Frappe,02. Fresh & Cool,Ice Cubes,Cup,size_1,1
+Italian Strawberry Frappe,02. Fresh & Cool,Ice Cubes,Cup,size_2,1
+Italian Strawberry Frappe,02. Fresh & Cool,Ice Cubes,Cup,size_3,1
+Italian Strawberry Frappe,02. Fresh & Cool,Ice Cubes,Cup,size_4,1
+Italian Strawberry Frappe,02. Fresh & Cool,Whipped Cream (Optional),Rosette,size_1,1
+Italian Strawberry Frappe,02. Fresh & Cool,Whipped Cream (Optional),Rosette,size_2,1
+Italian Strawberry Frappe,02. Fresh & Cool,Whipped Cream (Optional),Rosette,size_3,1
+Italian Strawberry Frappe,02. Fresh & Cool,Whipped Cream (Optional),Rosette,size_4,1
+Cold Brew,03. Cold Brew,Ice Cubes,Cup,size_1,0.75
+Cold Brew,03. Cold Brew,Ice Cubes,Cup,size_2,0.75
+Cold Brew,03. Cold Brew,Syrup (Optional),Pump,size_1,4
+Cold Brew,03. Cold Brew,Syrup (Optional),Pump,size_2,5
+Cold Brew,03. Cold Brew,Cold Brew,Cup,size_1,0.25
+Cold Brew,03. Cold Brew,Cold Brew,Cup,size_2,0.25
+Nitro Cold Brew,03. Cold Brew,Ice Cubes,Cup,size_1,0.75
+Nitro Cold Brew,03. Cold Brew,Ice Cubes,Cup,size_2,0.75
+Nitro Cold Brew,03. Cold Brew,Syrup (Optional),Pump,size_1,4
+Nitro Cold Brew,03. Cold Brew,Syrup (Optional),Pump,size_2,5
+Nitro Cold Brew,03. Cold Brew,Nitro Cold Brew,Cup,size_1,0.25
+Nitro Cold Brew,03. Cold Brew,Nitro Cold Brew,Cup,size_2,0.25
+Nutty Nitro Cold Brew,03. Cold Brew,Ice Cubes,Cup,size_1,0.75
+Nutty Nitro Cold Brew,03. Cold Brew,Ice Cubes,Cup,size_2,0.75
+Nutty Nitro Cold Brew,03. Cold Brew,Hazelnut Syrup,Pump,size_1,3
+Nutty Nitro Cold Brew,03. Cold Brew,Hazelnut Syrup,Pump,size_2,4
+Nutty Nitro Cold Brew,03. Cold Brew,Almond Milk,Oz,size_1,3
+Nutty Nitro Cold Brew,03. Cold Brew,Almond Milk,Oz,size_2,4
+Nutty Nitro Cold Brew,03. Cold Brew,Nitro Cold Brew,Cup,size_1,0.25
+Nutty Nitro Cold Brew,03. Cold Brew,Nitro Cold Brew,Cup,size_2,0.25
+Coco Choc Nitro Cold Brew,03. Cold Brew,Ice Cubes,Cup,size_1,0.75
+Coco Choc Nitro Cold Brew,03. Cold Brew,Ice Cubes,Cup,size_2,0.75
+Coco Choc Nitro Cold Brew,03. Cold Brew,Chocolate Sauce,Pump,size_1,2
+Coco Choc Nitro Cold Brew,03. Cold Brew,Chocolate Sauce,Pump,size_2,3
+Coco Choc Nitro Cold Brew,03. Cold Brew,Coconut Milk,Oz,size_1,3
+Coco Choc Nitro Cold Brew,03. Cold Brew,Coconut Milk,Oz,size_2,4
+Coco Choc Nitro Cold Brew,03. Cold Brew,Nitro Cold Brew,Cup,size_1,0.25
+Coco Choc Nitro Cold Brew,03. Cold Brew,Nitro Cold Brew,Cup,size_2,0.25
+Mother Of Dragons,04. Energy Fresh,Dragon Fruit Syrup,Pump,size_1,4
+Mother Of Dragons,04. Energy Fresh,Dragon Fruit Syrup,Pump,size_2,5
+Mother Of Dragons,04. Energy Fresh,Dragon Fruit Syrup,Pump,size_3,6
+Mother Of Dragons,04. Energy Fresh,Dragon Fruit Syrup,Pump,size_4,7
+Mother Of Dragons,04. Energy Fresh,White Lotus,Pump,size_1,1
+Mother Of Dragons,04. Energy Fresh,White Lotus,Pump,size_2,1.5
+Mother Of Dragons,04. Energy Fresh,White Lotus,Pump,size_3,2
+Mother Of Dragons,04. Energy Fresh,White Lotus,Pump,size_4,2.5
+Mother Of Dragons,04. Energy Fresh,Ice Cubes,Cup,size_1,0.75
+Mother Of Dragons,04. Energy Fresh,Ice Cubes,Cup,size_2,0.75
+Mother Of Dragons,04. Energy Fresh,Ice Cubes,Cup,size_3,0.75
+Mother Of Dragons,04. Energy Fresh,Ice Cubes,Cup,size_4,0.75
+Mother Of Dragons,04. Energy Fresh,Club Soda,Cup,size_1,0.25
+Mother Of Dragons,04. Energy Fresh,Club Soda,Cup,size_2,0.25
+Mother Of Dragons,04. Energy Fresh,Club Soda,Cup,size_3,0.25
+Mother Of Dragons,04. Energy Fresh,Club Soda,Cup,size_4,0.25
+Mango Colada,04. Energy Fresh,Mango Passion Fruit Fusion,Pump,size_1,1
+Mango Colada,04. Energy Fresh,Mango Passion Fruit Fusion,Pump,size_2,1.5
+Mango Colada,04. Energy Fresh,Mango Passion Fruit Fusion,Pump,size_3,2
+Mango Colada,04. Energy Fresh,Mango Passion Fruit Fusion,Pump,size_4,2.5
+Mango Colada,04. Energy Fresh,Pina Colada Fruit Fusion,Pump,size_1,0.5
+Mango Colada,04. Energy Fresh,Pina Colada Fruit Fusion,Pump,size_2,1
+Mango Colada,04. Energy Fresh,Pina Colada Fruit Fusion,Pump,size_3,1.5
+Mango Colada,04. Energy Fresh,Pina Colada Fruit Fusion,Pump,size_4,2
+Mango Colada,04. Energy Fresh,White Lotus,Pump,size_1,1
+Mango Colada,04. Energy Fresh,White Lotus,Pump,size_2,1.5
+Mango Colada,04. Energy Fresh,White Lotus,Pump,size_3,2
+Mango Colada,04. Energy Fresh,White Lotus,Pump,size_4,2.5
+Mango Colada,04. Energy Fresh,Ice Cubes,Cup,size_1,0.75
+Mango Colada,04. Energy Fresh,Ice Cubes,Cup,size_2,0.75
+Mango Colada,04. Energy Fresh,Ice Cubes,Cup,size_3,0.75
+Mango Colada,04. Energy Fresh,Ice Cubes,Cup,size_4,0.75
+Mango Colada,04. Energy Fresh,Club Soda,Cup,size_1,0.25
+Mango Colada,04. Energy Fresh,Club Soda,Cup,size_2,0.25
+Mango Colada,04. Energy Fresh,Club Soda,Cup,size_3,0.25
+Mango Colada,04. Energy Fresh,Club Soda,Cup,size_4,0.25
+Watermelon Cooler,04. Energy Fresh,Watermelon Fruit Fusion,Pump,size_1,1
+Watermelon Cooler,04. Energy Fresh,Watermelon Fruit Fusion,Pump,size_2,1.5
+Watermelon Cooler,04. Energy Fresh,Watermelon Fruit Fusion,Pump,size_3,2
+Watermelon Cooler,04. Energy Fresh,Watermelon Fruit Fusion,Pump,size_4,2.5
+Watermelon Cooler,04. Energy Fresh,White Lotus,Pump,size_1,1
+Watermelon Cooler,04. Energy Fresh,White Lotus,Pump,size_2,1.5
+Watermelon Cooler,04. Energy Fresh,White Lotus,Pump,size_3,2
+Watermelon Cooler,04. Energy Fresh,White Lotus,Pump,size_4,2.5
+Watermelon Cooler,04. Energy Fresh,Ice Cubes,Cup,size_1,0.75
+Watermelon Cooler,04. Energy Fresh,Ice Cubes,Cup,size_2,0.75
+Watermelon Cooler,04. Energy Fresh,Ice Cubes,Cup,size_3,0.75
+Watermelon Cooler,04. Energy Fresh,Ice Cubes,Cup,size_4,0.75
+Watermelon Cooler,04. Energy Fresh,Club Soda,Cup,size_1,0.25
+Watermelon Cooler,04. Energy Fresh,Club Soda,Cup,size_2,0.25
+Watermelon Cooler,04. Energy Fresh,Club Soda,Cup,size_3,0.25
+Watermelon Cooler,04. Energy Fresh,Club Soda,Cup,size_4,0.25
+Strawberries And Cream,04. Energy Fresh,Strawberry Fruit Fusion,Pump,size_1,1
+Strawberries And Cream,04. Energy Fresh,Strawberry Fruit Fusion,Pump,size_2,1.5
+Strawberries And Cream,04. Energy Fresh,Strawberry Fruit Fusion,Pump,size_3,2
+Strawberries And Cream,04. Energy Fresh,Strawberry Fruit Fusion,Pump,size_4,2.5
+Strawberries And Cream,04. Energy Fresh,White Lotus,Pump,size_1,1
+Strawberries And Cream,04. Energy Fresh,White Lotus,Pump,size_2,1.5
+Strawberries And Cream,04. Energy Fresh,White Lotus,Pump,size_3,2
+Strawberries And Cream,04. Energy Fresh,White Lotus,Pump,size_4,2.5
+Strawberries And Cream,04. Energy Fresh,Cream Base,Pump,size_1,0.5
+Strawberries And Cream,04. Energy Fresh,Cream Base,Pump,size_2,0.5
+Strawberries And Cream,04. Energy Fresh,Cream Base,Pump,size_3,0.5
+Strawberries And Cream,04. Energy Fresh,Cream Base,Pump,size_4,0.5
+Strawberries And Cream,04. Energy Fresh,Ice Cubes,Cup,size_1,0.75
+Strawberries And Cream,04. Energy Fresh,Ice Cubes,Cup,size_2,0.75
+Strawberries And Cream,04. Energy Fresh,Ice Cubes,Cup,size_3,0.75
+Strawberries And Cream,04. Energy Fresh,Ice Cubes,Cup,size_4,0.75
+Strawberries And Cream,04. Energy Fresh,Club Soda,Cup,size_1,0.25
+Strawberries And Cream,04. Energy Fresh,Club Soda,Cup,size_2,0.25
+Strawberries And Cream,04. Energy Fresh,Club Soda,Cup,size_3,0.25
+Strawberries And Cream,04. Energy Fresh,Club Soda,Cup,size_4,0.25
+Mango Dreamsicle,05. Energy Smoothies,Ice Cubes,Cup,size_1,1
+Mango Dreamsicle,05. Energy Smoothies,Ice Cubes,Cup,size_2,1
+Mango Dreamsicle,05. Energy Smoothies,Ice Cubes,Cup,size_3,1
+Mango Dreamsicle,05. Energy Smoothies,White Lotus* (Not for Kids),Pump,size_1,1
+Mango Dreamsicle,05. Energy Smoothies,White Lotus* (Not for Kids),Pump,size_2,1.5
+Mango Dreamsicle,05. Energy Smoothies,White Lotus* (Not for Kids),Pump,size_3,2
+Mango Dreamsicle,05. Energy Smoothies,Lotus Mango Passion Fruit Fusion,Pump,size_1,1
+Mango Dreamsicle,05. Energy Smoothies,Lotus Mango Passion Fruit Fusion,Pump,size_2,1.5
+Mango Dreamsicle,05. Energy Smoothies,Lotus Mango Passion Fruit Fusion,Pump,size_3,2
+Mango Dreamsicle,05. Energy Smoothies,Lotus Orange Creamsicle Fruit Fusion,Pump,size_1,0.5
+Mango Dreamsicle,05. Energy Smoothies,Lotus Orange Creamsicle Fruit Fusion,Pump,size_2,0.5
+Mango Dreamsicle,05. Energy Smoothies,Lotus Orange Creamsicle Fruit Fusion,Pump,size_3,1
+Mango Dreamsicle,05. Energy Smoothies,Greek Yogurt,Scoop,size_1,1
+Mango Dreamsicle,05. Energy Smoothies,Greek Yogurt,Scoop,size_2,1
+Mango Dreamsicle,05. Energy Smoothies,Greek Yogurt,Scoop,size_3,2
+Mango Dreamsicle,05. Energy Smoothies,Milk,Oz,size_1,3
+Mango Dreamsicle,05. Energy Smoothies,Milk,Oz,size_2,4
+Mango Dreamsicle,05. Energy Smoothies,Milk,Oz,size_3,5
+Mango Dreamsicle,05. Energy Smoothies,Natural Orange Food Coloring,Drop,size_1,2
+Mango Dreamsicle,05. Energy Smoothies,Natural Orange Food Coloring,Drop,size_2,2
+Mango Dreamsicle,05. Energy Smoothies,Natural Orange Food Coloring,Drop,size_3,2
+Mango Dreamsicle,05. Energy Smoothies,Whey Protein (Add On),Scoop,size_1,1
+Mango Dreamsicle,05. Energy Smoothies,Whey Protein (Add On),Scoop,size_2,1
+Mango Dreamsicle,05. Energy Smoothies,Whey Protein (Add On),Scoop,size_3,1
+Berry Burst Fusion,05. Energy Smoothies,Ice Cubes,Cup,size_1,1
+Berry Burst Fusion,05. Energy Smoothies,Ice Cubes,Cup,size_2,1
+Berry Burst Fusion,05. Energy Smoothies,Ice Cubes,Cup,size_3,1
+Berry Burst Fusion,05. Energy Smoothies,White Lotus* (Not for Kids),Pump,size_1,1
+Berry Burst Fusion,05. Energy Smoothies,White Lotus* (Not for Kids),Pump,size_2,1.5
+Berry Burst Fusion,05. Energy Smoothies,White Lotus* (Not for Kids),Pump,size_3,2
+Berry Burst Fusion,05. Energy Smoothies,Lotus Strawberry Fruit Fusion,Pump,size_1,1
+Berry Burst Fusion,05. Energy Smoothies,Lotus Strawberry Fruit Fusion,Pump,size_2,1.5
+Berry Burst Fusion,05. Energy Smoothies,Lotus Strawberry Fruit Fusion,Pump,size_3,2
+Berry Burst Fusion,05. Energy Smoothies,Lotus Blue Raspberry Fruit Fusion,Pump,size_1,0.5
+Berry Burst Fusion,05. Energy Smoothies,Lotus Blue Raspberry Fruit Fusion,Pump,size_2,0.5
+Berry Burst Fusion,05. Energy Smoothies,Lotus Blue Raspberry Fruit Fusion,Pump,size_3,1
+Berry Burst Fusion,05. Energy Smoothies,Greek Yogurt,Scoop,size_1,1
+Berry Burst Fusion,05. Energy Smoothies,Greek Yogurt,Scoop,size_2,1
+Berry Burst Fusion,05. Energy Smoothies,Greek Yogurt,Scoop,size_3,2
+Berry Burst Fusion,05. Energy Smoothies,Milk,Oz,size_1,3
+Berry Burst Fusion,05. Energy Smoothies,Milk,Oz,size_2,4
+Berry Burst Fusion,05. Energy Smoothies,Milk,Oz,size_3,5
+Berry Burst Fusion,05. Energy Smoothies,Whey Protein (Add On),Scoop,size_1,1
+Berry Burst Fusion,05. Energy Smoothies,Whey Protein (Add On),Scoop,size_2,1
+Berry Burst Fusion,05. Energy Smoothies,Whey Protein (Add On),Scoop,size_3,1
+Pina Coco-lada,05. Energy Smoothies,Ice Cubes,Cup,size_1,1
+Pina Coco-lada,05. Energy Smoothies,Ice Cubes,Cup,size_2,1
+Pina Coco-lada,05. Energy Smoothies,Ice Cubes,Cup,size_3,1
+Pina Coco-lada,05. Energy Smoothies,White Lotus* (Not for Kids),Pump,size_1,1
+Pina Coco-lada,05. Energy Smoothies,White Lotus* (Not for Kids),Pump,size_2,1.5
+Pina Coco-lada,05. Energy Smoothies,White Lotus* (Not for Kids),Pump,size_3,2
+Pina Coco-lada,05. Energy Smoothies,Lotus Piña Colada Fruit Fusion,Pump,size_1,2
+Pina Coco-lada,05. Energy Smoothies,Lotus Piña Colada Fruit Fusion,Pump,size_2,2.5
+Pina Coco-lada,05. Energy Smoothies,Lotus Piña Colada Fruit Fusion,Pump,size_3,3
+Pina Coco-lada,05. Energy Smoothies,Greek Yogurt,Scoop,size_1,1
+Pina Coco-lada,05. Energy Smoothies,Greek Yogurt,Scoop,size_2,1
+Pina Coco-lada,05. Energy Smoothies,Greek Yogurt,Scoop,size_3,2
+Pina Coco-lada,05. Energy Smoothies,Milk,Oz,size_1,3
+Pina Coco-lada,05. Energy Smoothies,Milk,Oz,size_2,4
+Pina Coco-lada,05. Energy Smoothies,Milk,Oz,size_3,5
+Pina Coco-lada,05. Energy Smoothies,Whey Protein (Add On),Scoop,size_1,1
+Pina Coco-lada,05. Energy Smoothies,Whey Protein (Add On),Scoop,size_2,1
+Pina Coco-lada,05. Energy Smoothies,Whey Protein (Add On),Scoop,size_3,1
+Tapioca Pearls,06. Boba Tea,Water for Cooking,Oz,size_1,50
+Tapioca Pearls,06. Boba Tea,Tapioca Pearls,Oz,size_1,10
+Tapioca Pearls,06. Boba Tea,Brown Sugar,Oz,size_1,5
+Tapioca Pearls,06. Boba Tea,Hot Water for Syrup,Oz,size_1,5
+CocoNutty,06. Boba Tea,Ice Cubes,Cup,size_1,1
+CocoNutty,06. Boba Tea,Ice Cubes,Cup,size_2,1
+CocoNutty,06. Boba Tea,Milk,Oz,size_1,4
+CocoNutty,06. Boba Tea,Milk,Oz,size_2,5
+CocoNutty,06. Boba Tea,Coconut Syrup,Pump,size_1,2
+CocoNutty,06. Boba Tea,Coconut Syrup,Pump,size_2,3
+CocoNutty,06. Boba Tea,Taro Powder,Scoop,size_1,1
+CocoNutty,06. Boba Tea,Taro Powder,Scoop,size_2,1.5
+CocoNutty,06. Boba Tea,Green Tea * (Not for Kids),Oz,size_1,3
+CocoNutty,06. Boba Tea,Green Tea * (Not for Kids),Oz,size_2,4
+CocoNutty,06. Boba Tea,Tapioca Pearls,Scoop,size_1,2
+CocoNutty,06. Boba Tea,Tapioca Pearls,Scoop,size_2,3
+Spicy Chai,06. Boba Tea,Ice Cubes,Cup,size_1,1
+Spicy Chai,06. Boba Tea,Ice Cubes,Cup,size_2,1
+Spicy Chai,06. Boba Tea,Milk,Oz,size_1,4
+Spicy Chai,06. Boba Tea,Milk,Oz,size_2,5
+Spicy Chai,06. Boba Tea,Cinnamon Syrup,Pump,size_1,2
+Spicy Chai,06. Boba Tea,Cinnamon Syrup,Pump,size_2,3
+Spicy Chai,06. Boba Tea,Ginger Syrup,Pump,size_1,2
+Spicy Chai,06. Boba Tea,Ginger Syrup,Pump,size_2,3
+Spicy Chai,06. Boba Tea,Bombay Chai tea,Oz,size_1,3
+Spicy Chai,06. Boba Tea,Bombay Chai tea,Oz,size_2,4
+Spicy Chai,06. Boba Tea,Tapioca Pearls,Scoop,size_1,2
+Spicy Chai,06. Boba Tea,Tapioca Pearls,Scoop,size_2,3
+Spicy Chai,06. Boba Tea,Cinnamon Powder,Sprinkle,size_1,1
+Spicy Chai,06. Boba Tea,Cinnamon Powder,Sprinkle,size_2,1
+Sweet Black,06. Boba Tea,Ice Cubes,Cup,size_1,1
+Sweet Black,06. Boba Tea,Ice Cubes,Cup,size_2,1
+Sweet Black,06. Boba Tea,Milk,Oz,size_1,4
+Sweet Black,06. Boba Tea,Milk,Oz,size_2,5
+Sweet Black,06. Boba Tea,Pure Cane Syrup,Pump,size_1,3
+Sweet Black,06. Boba Tea,Pure Cane Syrup,Pump,size_2,4
+Sweet Black,06. Boba Tea,Black Tea,Oz,size_1,3
+Sweet Black,06. Boba Tea,Black Tea,Oz,size_2,4
+Sweet Black,06. Boba Tea,Tapioca Pearls,Scoop,size_1,2
+Sweet Black,06. Boba Tea,Tapioca Pearls,Scoop,size_2,3
+Espresso Rose,06. Boba Tea,Ice Cubes,Cup,size_1,1
+Espresso Rose,06. Boba Tea,Ice Cubes,Cup,size_2,1
+Espresso Rose,06. Boba Tea,Milk,Oz,size_1,5
+Espresso Rose,06. Boba Tea,Milk,Oz,size_2,6
+Espresso Rose,06. Boba Tea,Rose Syrup,Pump,size_1,4
+Espresso Rose,06. Boba Tea,Rose Syrup,Pump,size_2,5
+Espresso Rose,06. Boba Tea,Espresso,Shot,size_1,2 Standard
+Espresso Rose,06. Boba Tea,Espresso,Shot,size_2,2 Lungo
+Espresso Rose,06. Boba Tea,Tapioca Pearls,Scoop,size_1,2
+Espresso Rose,06. Boba Tea,Tapioca Pearls,Scoop,size_2,3
+Pure Matcha,06. Boba Tea,Matcha (Culinary Grade),Tsp,size_1,3
+Pure Matcha,06. Boba Tea,Matcha (Culinary Grade),Tsp,size_2,4
+Pure Matcha,06. Boba Tea,Hot water,Oz,size_1,1
+Pure Matcha,06. Boba Tea,Hot water,Oz,size_2,1
+Pure Matcha,06. Boba Tea,Ice Cubes,Cup,size_1,1
+Pure Matcha,06. Boba Tea,Ice Cubes,Cup,size_2,1
+Pure Matcha,06. Boba Tea,Milk,Oz,size_1,5
+Pure Matcha,06. Boba Tea,Milk,Oz,size_2,6
+Pure Matcha,06. Boba Tea,Vanilla Syrup,Pump,size_1,2
+Pure Matcha,06. Boba Tea,Vanilla Syrup,Pump,size_2,3
+Pure Matcha,06. Boba Tea,Tapioca Pearls,Scoop,size_1,2
+Pure Matcha,06. Boba Tea,Tapioca Pearls,Scoop,size_2,3
+Mangoberry,06. Boba Tea,Ice Cubes,Cup,size_1,1
+Mangoberry,06. Boba Tea,Ice Cubes,Cup,size_2,1
+Mangoberry,06. Boba Tea,Milk,Oz,size_1,4
+Mangoberry,06. Boba Tea,Milk,Oz,size_2,5
+Mangoberry,06. Boba Tea,Mango Syrup,Pump,size_1,2
+Mangoberry,06. Boba Tea,Mango Syrup,Pump,size_2,3
+Mangoberry,06. Boba Tea,Strawberry Fruit Puree,Pump,size_1,2
+Mangoberry,06. Boba Tea,Strawberry Fruit Puree,Pump,size_2,3
+Mangoberry,06. Boba Tea,Mexican Hibiscus Mango & Moringa Infusion,Oz,size_1,3
+Mangoberry,06. Boba Tea,Mexican Hibiscus Mango & Moringa Infusion,Oz,size_2,4
+Mangoberry,06. Boba Tea,Tapioca Pearls,Scoop,size_1,2
+Mangoberry,06. Boba Tea,Tapioca Pearls,Scoop,size_2,3
+Hot Tea,07. Tea,Tea Bag,Bag,size_1,1
+Hot Tea,07. Tea,Tea Bag,Bag,size_2,2
+Hot Tea,07. Tea,Tea Bag,Bag,size_3,2
+Hot Tea,07. Tea,Hot Water,Oz,size_1,15
+Hot Tea,07. Tea,Hot Water,Oz,size_2,19
+Hot Tea,07. Tea,Hot Water,Oz,size_3,23
+Iced Tea,07. Tea,Ice Cubes,Cup,size_1,0.75
+Iced Tea,07. Tea,Ice Cubes,Cup,size_2,0.75
+Iced Tea,07. Tea,Ice Cubes,Cup,size_3,0.75
+Pinsa Perfetta,11. Lunch,Bindi Margherita Pinsa,Unit,size_1,2025-01-02 00:00:00
+Pinsa Perfetta,11. Lunch,Olive Oil,Drizzle,size_1,1
+Pinsa Perfetta,11. Lunch,Dried oregano,Sprinkle,size_1,1
+Pinsa Perfetta,11. Lunch,Basil,Leaf,size_1,6
+Gelato Base,12. Gelato,Sprint Base (Assorted Flavors),Bag,size_1,1
+Gelato Base,12. Gelato,Milk,Gr,size_1,2500
+Affogato,12. Gelato,"Gelato
+(Flavor of choice)",Scoop,size_1,1
+Affogato,12. Gelato,Espresso,Shot,size_1,1 Standard
+Gelato,12. Gelato,"Gelato in Cup
+(Flavor of choice)",Oz,size_1,3
+Gelato,12. Gelato,"Gelato in Cup
+(Flavor of choice)",Oz,size_2,6
+Gelato,12. Gelato,"Add Ons:
+Caramel Sauce
+Chocolate Sauce
+White Chocolate Sauce",Drizzle or Sprinkle,size_1,1
+Gelato,12. Gelato,"Add Ons:
+Caramel Sauce
+Chocolate Sauce
+White Chocolate Sauce",Drizzle or Sprinkle,size_2,1
+Cremato Cookies & Cream,12. Gelato,Vanilla Gelato,Oz,size_1,9
+Cremato Cookies & Cream,12. Gelato,Vanilla Gelato,Oz,size_2,11
+Cremato Cookies & Cream,12. Gelato,Vanilla Gelato,Oz,size_3,13
+Cremato Cookies & Cream,12. Gelato,Milk,Oz,size_1,4
+Cremato Cookies & Cream,12. Gelato,Milk,Oz,size_2,6
+Cremato Cookies & Cream,12. Gelato,Milk,Oz,size_3,8
+Cremato Cookies & Cream,12. Gelato,Crushed Oreo,Scoop,size_1,2
+Cremato Cookies & Cream,12. Gelato,Crushed Oreo,Scoop,size_2,2.5
+Cremato Cookies & Cream,12. Gelato,Crushed Oreo,Scoop,size_3,3
+Cremato Cookies & Cream,12. Gelato,Whipped Cream,Rosette,size_1,1
+Cremato Cookies & Cream,12. Gelato,Whipped Cream,Rosette,size_2,1
+Cremato Cookies & Cream,12. Gelato,Whipped Cream,Rosette,size_3,1
+Cremato Cookies & Cream,12. Gelato,Crushed Oreo (Topping),Scoop,size_1,0.5
+Cremato Cookies & Cream,12. Gelato,Crushed Oreo (Topping),Scoop,size_2,0.5
+Cremato Cookies & Cream,12. Gelato,Crushed Oreo (Topping),Scoop,size_3,0.5
+Cremato di Matcha,12. Gelato,Vanilla Gelato,Oz,size_1,9
+Cremato di Matcha,12. Gelato,Vanilla Gelato,Oz,size_2,11
+Cremato di Matcha,12. Gelato,Vanilla Gelato,Oz,size_3,13
+Cremato di Matcha,12. Gelato,Matcha,Tsp,size_1,2
+Cremato di Matcha,12. Gelato,Matcha,Tsp,size_2,3
+Cremato di Matcha,12. Gelato,Matcha,Tsp,size_3,3
+Cremato di Matcha,12. Gelato,Milk,Oz,size_1,4
+Cremato di Matcha,12. Gelato,Milk,Oz,size_2,6
+Cremato di Matcha,12. Gelato,Milk,Oz,size_3,8
+Cremato di Matcha,12. Gelato,Whipped Cream,Rosette,size_1,1
+Cremato di Matcha,12. Gelato,Whipped Cream,Rosette,size_2,1
+Cremato di Matcha,12. Gelato,Whipped Cream,Rosette,size_3,1
+Cremato di Matcha,12. Gelato,Matcha (Topping),Tsp,size_1,2025-01-04 00:00:00
+Cremato di Matcha,12. Gelato,Matcha (Topping),Tsp,size_2,2025-01-04 00:00:00
+Cremato di Matcha,12. Gelato,Matcha (Topping),Tsp,size_3,2025-01-04 00:00:00
+Cremato di Mocha,12. Gelato,Chocolate Gelato,Oz,size_1,9
+Cremato di Mocha,12. Gelato,Chocolate Gelato,Oz,size_2,11
+Cremato di Mocha,12. Gelato,Chocolate Gelato,Oz,size_3,13
+Cremato di Mocha,12. Gelato,Milk,Oz,size_1,3
+Cremato di Mocha,12. Gelato,Milk,Oz,size_2,5
+Cremato di Mocha,12. Gelato,Milk,Oz,size_3,7
+Cremato di Mocha,12. Gelato,Espresso,Shot,size_1,1 Standard
+Cremato di Mocha,12. Gelato,Espresso,Shot,size_2,1 Lungo
+Cremato di Mocha,12. Gelato,Espresso,Shot,size_3,2 Standard
+Cremato di Mocha,12. Gelato,Whipped Cream,Rosette,size_1,1
+Cremato di Mocha,12. Gelato,Whipped Cream,Rosette,size_2,1
+Cremato di Mocha,12. Gelato,Whipped Cream,Rosette,size_3,1
+Cremato di Mocha,12. Gelato,Chocolate Sauce,Pump,size_1,1
+Cremato di Mocha,12. Gelato,Chocolate Sauce,Pump,size_2,1
+Cremato di Mocha,12. Gelato,Chocolate Sauce,Pump,size_3,1
+Strawberry-Chia Parfait,13. Sweet Treats,Greek Yogurt,Oz,size_1,7
+Strawberry-Chia Parfait,13. Sweet Treats,Chia Seeds,Tsp,size_1,1
+Strawberry-Chia Parfait,13. Sweet Treats,Strawberry Fruit Puree,Oz,size_1,0.5
+Strawberry-Chia Parfait,13. Sweet Treats,Honey Oat Granola,Scoop,size_1,3
+Croissant al Gelato,13. Sweet Treats,Croissant,Unit,size_1,1
+Croissant al Gelato,13. Sweet Treats,"Gelato
+(Flavor of choice)",Scoop,size_1,1
+Croissant al Gelato,13. Sweet Treats,"Sauce
+(Flavor of choice)",Drizzle,size_1,1
+Batter,13. Sweet Treats,Pancake Premix,Oz,size_1,10
+Batter,13. Sweet Treats,Water,Oz,size_1,10
+Italian Rustic Sandwich,13. Sweet Treats,"Choice of Bread 
+(Butter Croissant or Bagel)",Unit,size_1,1
+Italian Rustic Sandwich,13. Sweet Treats,Mozzarella Cheese,Slice,size_1,1
+Italian Rustic Sandwich,13. Sweet Treats,Turkey Bacon,Slice,size_1,2
+Drip Coffee,01. Hot Classics,Brewed Coffee,Oz,size_1,16
+Drip Coffee,01. Hot Classics,Brewed Coffee,Oz,size_2,20
+Drip Coffee,01. Hot Classics,Brewed Coffee,Oz,size_3,24
+Iced Coffee,01.1 Iced Classics,Cold Coffee,Oz,size_1,10
+Iced Coffee,01.1 Iced Classics,Cold Coffee,Oz,size_2,13
+Iced Coffee,01.1 Iced Classics,Cold Coffee,Oz,size_3,16
+Iced Tea,07. Tea,Brewed Cold Tea,Oz,size_1,10
+Iced Tea,07. Tea,Brewed Cold Tea,Oz,size_2,13
+Iced Tea,07. Tea,Brewed Cold Tea,Oz,size_3,16
+Espresso Con Panna,01. Hot Classics,Espresso,Shot,size_1,2 Standard
+Espresso Con Panna,01. Hot Classics,Whipped Cream,Rosette,size_1,1
+Espresso Macchiato,01. Hot Classics,Espresso,Shot,size_1,2 Standard
+Espresso Macchiato,01. Hot Classics,Milk,Oz,size_1,0.5
+Cortado,01. Hot Classics,Espresso,Shot,size_1,2 Standard
+Cortado,01. Hot Classics,Milk,Oz,size_1,2
+Sweet Potato,08. Pets,Sweet Potato Puree,Oz,size_1,10
+Sweet Potato,08. Pets,Whipped Cream,Rosette,size_1,1
+Seasoning Mix,10. Breakfast,Salt,Oz,size_1,5
+Seasoning Mix,10. Breakfast,Pepper,Oz,size_1,2.5
+Seasoning Mix,10. Breakfast,Dried Oregano,Oz,size_1,2.5
+Veggie Caprese Sandwich,10. Breakfast,"Choice of Bread 
+(Butter Croissant or Bagel)",Unit,size_1,1
+Veggie Caprese Sandwich,10. Breakfast,Sliced Tomatoes,Slice,size_1,2
+Veggie Caprese Sandwich,10. Breakfast,Fresh Mozzarella,Slice,size_1,2
+Veggie Caprese Sandwich,10. Breakfast,Fresh Basil,Leaf,size_1,3
+Veggie Caprese Sandwich,10. Breakfast,Balsamic Vinegar,Drizzle,size_1,1
+Veggie Caprese Sandwich,10. Breakfast,Olive Oil,Drizzle,size_1,1
+Veggie Caprese Sandwich,10. Breakfast,Seasoning Mix,Sprinkle,size_1,1
+Cheddar & Crisp,10. Breakfast,"Choice of Bread 
+(Butter Croissant or Bagel)",Unit,size_1,1
+Cheddar & Crisp,10. Breakfast,Scrambled Egg Patty,Unit,size_1,1
+Cheddar & Crisp,10. Breakfast,Sliced Cheddar Cheese,Slice,size_1,1
+Cheddar & Crisp,10. Breakfast,Turkey Bacon,Slice,size_1,3
+Qargo Classic,10. Breakfast,"Choice of Bread 
+(Butter Croissant or Bagel)",Unit,size_1,1
+Qargo Classic,10. Breakfast,Turkey Sausage Patty,Unit,size_1,1
+Qargo Classic,10. Breakfast,Scrambled Egg Patty,Unit,size_1,1
+Qargo Classic,10. Breakfast,Sliced Cheddar Cheese,Slice,size_1,1
+Salmone Mattina,10. Breakfast,Bagel,Unit,size_1,1
+Salmone Mattina,10. Breakfast,Scrambled Egg Patty,Unit,size_1,1
+Salmone Mattina,10. Breakfast,Avocado,Tbsp,size_1,2
+Salmone Mattina,10. Breakfast,Smoked Salmon,Slice,size_1,2
+Salmone Mattina,10. Breakfast,Arugula,Handful,size_1,1
+Salmone Mattina,10. Breakfast,Olive Oil,Drizzle,size_1,1
+Salmone Mattina,10. Breakfast,Lemon Juice,Drizzle,size_1,1
+Prosciutto Royale,10. Breakfast,Focaccia / Ciabatta,Unit,size_1,1
+Prosciutto Royale,10. Breakfast,Sliced Mozzarella Cheese,Slice,size_1,2
+Prosciutto Royale,10. Breakfast,Crumbled Blue Cheese,Tbsp,size_1,1
+Prosciutto Royale,10. Breakfast,Scrambled Egg Patty,Unit,size_1,1
+Prosciutto Royale,10. Breakfast,Olive Oil,Drizzle,size_1,1
+Prosciutto Royale,10. Breakfast,Seasoning Mix,Sprinkle,size_1,1
+Prosciutto Royale,10. Breakfast,Prosciutto,Slice,size_1,2
+Prosciutto Royale,10. Breakfast,Arugula,Handful,size_1,1
+Caprese al Croissant,10. Breakfast,Croissant,Unit,size_1,1
+Caprese al Croissant,10. Breakfast,Sliced Tomatoes,Slice,size_1,2
+Caprese al Croissant,10. Breakfast,Roasted Bell Peppers,Slice,size_1,6
+Caprese al Croissant,10. Breakfast,Fresh Mozzarella,Slice,size_1,2
+Caprese al Croissant,10. Breakfast,Olive Oil,Drizzle,size_1,1
+Caprese al Croissant,10. Breakfast,Avocado,Tbsp,size_1,1
+Caprese al Croissant,10. Breakfast,Crushed Pistachio,Tbsp,size_1,1
+Caprese al Croissant,10. Breakfast,Arugula,Handful,size_1,1
+Caprese al Croissant,10. Breakfast,Basil,Leaf,size_1,4
+Seasoning Mix,11. Lunch,Salt,Oz,size_1,5
+Seasoning Mix,11. Lunch,Pepper,Oz,size_1,2.5
+Seasoning Mix,11. Lunch,Dried Oregano,Oz,size_1,2.5
+Pesto Pomodoro Sandwich,11. Lunch,Focaccia,Unit,size_1,1
+Pesto Pomodoro Sandwich,11. Lunch,Pesto,Tbsp,size_1,1
+Pesto Pomodoro Sandwich,11. Lunch,Fresh Mozzarella,Slice,size_1,3
+Pesto Pomodoro Sandwich,11. Lunch,Sliced Tomatoes,Slice,size_1,3
+Pesto Pomodoro Sandwich,11. Lunch,Olive Oil,Drizzle,size_1,1
+Pesto Pomodoro Sandwich,11. Lunch,Arugula,Handful,size_1,1
+Pesto Pomodoro Sandwich,11. Lunch,Seasoning Mix,Sprinkle,size_1,1
+Turkey Bacon Classico Sandwich,11. Lunch,Pinsa / Focaccia,Unit,size_1,1
+Turkey Bacon Classico Sandwich,11. Lunch,Cream Cheese,Unit,size_1,1
+Turkey Bacon Classico Sandwich,11. Lunch,Sliced Tomatoes,Slice,size_1,3
+Turkey Bacon Classico Sandwich,11. Lunch,Sliced Mozzarella Cheese,Slice,size_1,2
+Turkey Bacon Classico Sandwich,11. Lunch,Crumbled Blue Cheese,Tbsp,size_1,1
+Turkey Bacon Classico Sandwich,11. Lunch,Turkey Bacon,Slice,size_1,3
+Turkey Bacon Classico Sandwich,11. Lunch,Arugula,Handful,size_1,1
+Turkey Bacon Al Fresco Sandwich,11. Lunch,Focaccia,Unit,size_1,1
+Turkey Bacon Al Fresco Sandwich,11. Lunch,Pesto,Tbsp,size_1,1
+Turkey Bacon Al Fresco Sandwich,11. Lunch,Sliced Mozzarella Cheese,Slice,size_1,2
+Turkey Bacon Al Fresco Sandwich,11. Lunch,Turkey Bacon,Slice,size_1,3
+Turkey Bacon Formaggio,11. Lunch,Focaccia,Unit,size_1,1
+Turkey Bacon Formaggio,11. Lunch,Cream Cheese,Tbsp,size_1,1
+Turkey Bacon Formaggio,11. Lunch,Sliced Mozzarella Cheese,Slice,size_1,2
+Turkey Bacon Formaggio,11. Lunch,Sliced Cheddar Cheese,Slice,size_1,1
+Turkey Bacon Formaggio,11. Lunch,Turkey Bacon,Slice,size_1,3
+Turkey Bacon Formaggio,11. Lunch,Sliced Pickles,Slice,size_1,4
+Salmone Fresco,11. Lunch,Smoked salmon,Slice,size_1,2
+Salmone Fresco,11. Lunch,Capers,Tbsp,size_1,1
+Salmone Fresco,11. Lunch,Cream Cheese,Unit,size_1,1
+Salmone Fresco,11. Lunch,Arugula,Handful,size_1,1
+Salmone Fresco,11. Lunch,Lemon Juice,Drizzle,size_1,1
+Salmone Fresco,11. Lunch,Olive oil,Drizzle,size_1,1
+Salmone Fresco,11. Lunch,Focaccia / Ciabatta,Unit,size_1,1
+Pinsa di Pollo,11. Lunch,Mayonnaise,Tbsp,size_1,1
+Pinsa di Pollo,11. Lunch,Mustard,Tbsp,size_1,0.5
+Pinsa di Pollo,11. Lunch,Sliced Mozzarella Cheese,Slice,size_1,2
+Pinsa di Pollo,11. Lunch,Crumbled Blue Cheese,Tbs,size_1,1
+Pinsa di Pollo,11. Lunch,Grilled Chicken Breast,Slice,size_1,3
+Pinsa di Pollo,11. Lunch,Arugula,Handful,size_1,1
+Pinsa di Pollo,11. Lunch,Olive Oil,Drizzle,size_1,1
+Pinsa di Pollo,11. Lunch,Seasoning Mix,Sprinkle,size_1,1
+Pinsa di Pollo,11. Lunch,Pinsa / Ciabatta,Unit,size_1,1
+Belgian Waffles,13. Sweet Treats,Batter,,size_1,Oz
+Belgian Waffles,13. Sweet Treats,Batter,,size_2,8
+Belgian Waffles,13. Sweet Treats,PAM Spray,,size_1,Pumps
+Belgian Waffles,13. Sweet Treats,PAM Spray,,size_2,2
+Belgian Waffles,13. Sweet Treats,"Sauce Options
+(As requested by the customer)",Chocolate,size_1,Drizzle
+Belgian Waffles,13. Sweet Treats,"Sauce Options
+(As requested by the customer)",Chocolate,size_2,1.5 oz
+Belgian Waffles,13. Sweet Treats,"Fruit Options 
+(As requested by the customer)",Sliced Banana,size_1,Unit
+Belgian Waffles,13. Sweet Treats,"Fruit Options 
+(As requested by the customer)",Sliced Banana,size_2,0.5
+Belgian Waffles,13. Sweet Treats,Confectioners Sugar,,size_1,Sprinkle
+Belgian Waffles,13. Sweet Treats,Confectioners Sugar,,size_2,1
+Belgian Waffles,13. Sweet Treats,Whipped Cream,,size_1,Rosette
+Belgian Waffles,13. Sweet Treats,Whipped Cream,,size_2,1

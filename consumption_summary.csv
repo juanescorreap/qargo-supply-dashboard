@@ -1,0 +1,168 @@
+store,category,unit,avg_weekly_consumption,weeks_with_data
+Qargo Coffee **Lab-01**,Coffee,g,416.06105263157895,19
+Qargo Coffee **Lab-01**,Coffee,ml,2614.354786923077,19
+Qargo Coffee **Lab-01**,Dairy,g,4.815,19
+Qargo Coffee **Lab-01**,Dairy,ml,3608.715099605263,19
+Qargo Coffee **Lab-01**,Plastic goods,cup,14.473684210526315,19
+Qargo Coffee **Lab-01**,Plastic goods,lid,14.473684210526315,19
+Qargo Coffee **Lab-01**,Plastic goods,napkin,13.0,19
+Qargo Coffee **Lab-01**,Plastic goods,sleeve,11.105263157894736,19
+Qargo Coffee **Lab-01**,Plastic goods,straw,2.2857142857142856,19
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Coffee,g,31296.403250000003,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Coffee,ml,85516.29839400001,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Dairy,g,38.8945,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Dairy,ml,149704.807249375,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Plastic goods,cup,812.0,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Plastic goods,lid,812.0,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Plastic goods,napkin,753.7,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Plastic goods,sleeve,431.1,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Plastic goods,straw,313.3,20
+"Qargo Coffee Dearborn, MI",Coffee,g,44918.03825,20
+"Qargo Coffee Dearborn, MI",Coffee,ml,44318.802833,20
+"Qargo Coffee Dearborn, MI",Dairy,g,125.19000000000001,20
+"Qargo Coffee Dearborn, MI",Dairy,ml,247307.83218375003,20
+"Qargo Coffee Dearborn, MI",Plastic goods,cup,1275.45,20
+"Qargo Coffee Dearborn, MI",Plastic goods,lid,1275.45,20
+"Qargo Coffee Dearborn, MI",Plastic goods,napkin,1106.35,20
+"Qargo Coffee Dearborn, MI",Plastic goods,sleeve,480.5,20
+"Qargo Coffee Dearborn, MI",Plastic goods,straw,578.15,20
+"Qargo Coffee Detroit, MI",Coffee,g,24781.92225,20
+"Qargo Coffee Detroit, MI",Coffee,ml,88283.7932065,20
+"Qargo Coffee Detroit, MI",Dairy,g,47.507999999999996,20
+"Qargo Coffee Detroit, MI",Dairy,ml,141792.533354375,20
+"Qargo Coffee Detroit, MI",Plastic goods,cup,700.85,20
+"Qargo Coffee Detroit, MI",Plastic goods,lid,700.85,20
+"Qargo Coffee Detroit, MI",Plastic goods,napkin,637.25,20
+"Qargo Coffee Detroit, MI",Plastic goods,sleeve,403.85,20
+"Qargo Coffee Detroit, MI",Plastic goods,straw,221.3,20
+"Qargo Coffee Edinburg, TX",Coffee,g,27625.795000000002,20
+"Qargo Coffee Edinburg, TX",Coffee,ml,24773.9143165,20
+"Qargo Coffee Edinburg, TX",Dairy,g,20.73125,20
+"Qargo Coffee Edinburg, TX",Dairy,ml,144630.471857625,20
+"Qargo Coffee Edinburg, TX",Plastic goods,cup,600.7,20
+"Qargo Coffee Edinburg, TX",Plastic goods,lid,600.7,20
+"Qargo Coffee Edinburg, TX",Plastic goods,napkin,560.0,20
+"Qargo Coffee Edinburg, TX",Plastic goods,sleeve,247.55,20
+"Qargo Coffee Edinburg, TX",Plastic goods,straw,298.75,20
+"Qargo Coffee Grand Prairie, TX",Coffee,g,26625.262692307697,13
+"Qargo Coffee Grand Prairie, TX",Coffee,ml,25495.17330307692,13
+"Qargo Coffee Grand Prairie, TX",Dairy,g,27.696538461538463,13
+"Qargo Coffee Grand Prairie, TX",Dairy,ml,145420.24441442307,13
+"Qargo Coffee Grand Prairie, TX",Plastic goods,cup,583.5384615384615,13
+"Qargo Coffee Grand Prairie, TX",Plastic goods,lid,583.5384615384615,13
+"Qargo Coffee Grand Prairie, TX",Plastic goods,napkin,555.3076923076923,13
+"Qargo Coffee Grand Prairie, TX",Plastic goods,sleeve,256.0,13
+"Qargo Coffee Grand Prairie, TX",Plastic goods,straw,282.6923076923077,13
+"Qargo Coffee Las Vegas, NV",Coffee,g,19959.334166666667,12
+"Qargo Coffee Las Vegas, NV",Coffee,ml,20276.559830833332,12
+"Qargo Coffee Las Vegas, NV",Dairy,g,61.8995,12
+"Qargo Coffee Las Vegas, NV",Dairy,ml,88274.80407854165,12
+"Qargo Coffee Las Vegas, NV",Plastic goods,cup,446.4166666666667,12
+"Qargo Coffee Las Vegas, NV",Plastic goods,lid,446.4166666666667,12
+"Qargo Coffee Las Vegas, NV",Plastic goods,napkin,405.5833333333333,12
+"Qargo Coffee Las Vegas, NV",Plastic goods,sleeve,148.41666666666666,12
+"Qargo Coffee Las Vegas, NV",Plastic goods,straw,267.09090909090907,12
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Coffee,g,9090.72,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Coffee,ml,15171.600673500001,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Dairy,g,20.89175,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Dairy,ml,56918.039565,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Plastic goods,cup,252.7,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Plastic goods,lid,252.7,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Plastic goods,napkin,242.55,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Plastic goods,sleeve,107.95,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Plastic goods,straw,119.2,20
+"Qargo Coffee Meijer #182, St Charles, IL",Coffee,g,15272.644999999999,18
+"Qargo Coffee Meijer #182, St Charles, IL",Coffee,ml,51294.37565166667,18
+"Qargo Coffee Meijer #182, St Charles, IL",Dairy,g,39.14416666666667,18
+"Qargo Coffee Meijer #182, St Charles, IL",Dairy,ml,76300.31772347222,18
+"Qargo Coffee Meijer #182, St Charles, IL",Plastic goods,cup,410.8333333333333,18
+"Qargo Coffee Meijer #182, St Charles, IL",Plastic goods,lid,410.8333333333333,18
+"Qargo Coffee Meijer #182, St Charles, IL",Plastic goods,napkin,390.3888888888889,18
+"Qargo Coffee Meijer #182, St Charles, IL",Plastic goods,sleeve,211.72222222222223,18
+"Qargo Coffee Meijer #182, St Charles, IL",Plastic goods,straw,164.22222222222223,18
+"Qargo Coffee Meijer #183 Elgin, IL",Coffee,ml,2531.4916000000003,1
+"Qargo Coffee Meijer #183 Elgin, IL",Plastic goods,cup,4.0,1
+"Qargo Coffee Meijer #183 Elgin, IL",Plastic goods,lid,4.0,1
+"Qargo Coffee Meijer #183 Elgin, IL",Plastic goods,napkin,4.0,1
+"Qargo Coffee Meijer #183 Elgin, IL",Plastic goods,sleeve,4.0,1
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Coffee,g,10831.396,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Coffee,ml,18766.479245500002,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Dairy,g,29.71925,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Dairy,ml,55130.22789825,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Plastic goods,cup,263.0,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Plastic goods,lid,263.0,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Plastic goods,napkin,249.2,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Plastic goods,sleeve,116.3,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Plastic goods,straw,119.8,20
+"Qargo Coffee Nashua, NH",Coffee,g,1915.835,3
+"Qargo Coffee Nashua, NH",Coffee,ml,3881.6204533333344,3
+"Qargo Coffee Nashua, NH",Dairy,g,3.745,3
+"Qargo Coffee Nashua, NH",Dairy,ml,7880.337605000001,3
+"Qargo Coffee Nashua, NH",Plastic goods,cup,23.666666666666668,3
+"Qargo Coffee Nashua, NH",Plastic goods,lid,23.666666666666668,3
+"Qargo Coffee Nashua, NH",Plastic goods,napkin,23.0,3
+"Qargo Coffee Nashua, NH",Plastic goods,sleeve,20.0,3
+"Qargo Coffee Nashua, NH",Plastic goods,straw,3.5,3
+"Qargo Coffee Orland Park, IL",Coffee,g,46103.8925,17
+"Qargo Coffee Orland Park, IL",Coffee,ml,38855.5784825,17
+"Qargo Coffee Orland Park, IL",Dairy,g,112.50285714285714,17
+"Qargo Coffee Orland Park, IL",Dairy,ml,225624.71551703126,17
+"Qargo Coffee Orland Park, IL",Plastic goods,cup,904.4705882352941,17
+"Qargo Coffee Orland Park, IL",Plastic goods,lid,904.4705882352941,17
+"Qargo Coffee Orland Park, IL",Plastic goods,napkin,895.7647058823529,17
+"Qargo Coffee Orland Park, IL",Plastic goods,sleeve,323.1764705882353,17
+"Qargo Coffee Orland Park, IL",Plastic goods,straw,586.2666666666667,17
+"Qargo Coffee San Antonio, TX",Coffee,g,40634.988750000004,20
+"Qargo Coffee San Antonio, TX",Coffee,ml,21788.979989,20
+"Qargo Coffee San Antonio, TX",Dairy,g,44.2445,20
+"Qargo Coffee San Antonio, TX",Dairy,ml,225127.33286837503,20
+"Qargo Coffee San Antonio, TX",Plastic goods,cup,854.65,20
+"Qargo Coffee San Antonio, TX",Plastic goods,lid,854.65,20
+"Qargo Coffee San Antonio, TX",Plastic goods,napkin,830.45,20
+"Qargo Coffee San Antonio, TX",Plastic goods,sleeve,302.75,20
+"Qargo Coffee San Antonio, TX",Plastic goods,straw,500.4,20
+"Qargo Coffee St Louis, MO",Coffee,g,10527.4625,6
+"Qargo Coffee St Louis, MO",Coffee,ml,7269.006301666667,6
+"Qargo Coffee St Louis, MO",Dairy,g,55.28333333333334,6
+"Qargo Coffee St Louis, MO",Dairy,ml,53348.717046875,6
+"Qargo Coffee St Louis, MO",Plastic goods,cup,163.33333333333334,6
+"Qargo Coffee St Louis, MO",Plastic goods,lid,163.33333333333334,6
+"Qargo Coffee St Louis, MO",Plastic goods,napkin,157.83333333333334,6
+"Qargo Coffee St Louis, MO",Plastic goods,sleeve,70.33333333333333,6
+"Qargo Coffee St Louis, MO",Plastic goods,straw,155.0,6
+"Qargo Coffee St Petersburg, FL",Coffee,g,9853.28225,20
+"Qargo Coffee St Petersburg, FL",Coffee,ml,15311.153711500001,20
+"Qargo Coffee St Petersburg, FL",Dairy,g,13.226388888888888,20
+"Qargo Coffee St Petersburg, FL",Dairy,ml,45969.757313375,20
+"Qargo Coffee St Petersburg, FL",Plastic goods,cup,227.0,20
+"Qargo Coffee St Petersburg, FL",Plastic goods,lid,227.0,20
+"Qargo Coffee St Petersburg, FL",Plastic goods,napkin,200.95,20
+"Qargo Coffee St Petersburg, FL",Plastic goods,sleeve,96.55,20
+"Qargo Coffee St Petersburg, FL",Plastic goods,straw,100.5,20
+"Qargo Coffee Tampa, FL",Coffee,g,49613.25175,20
+"Qargo Coffee Tampa, FL",Coffee,ml,86388.73776700001,20
+"Qargo Coffee Tampa, FL",Dairy,g,61.5785,20
+"Qargo Coffee Tampa, FL",Dairy,ml,206301.62172650002,20
+"Qargo Coffee Tampa, FL",Plastic goods,cup,1066.5,20
+"Qargo Coffee Tampa, FL",Plastic goods,lid,1066.5,20
+"Qargo Coffee Tampa, FL",Plastic goods,napkin,962.25,20
+"Qargo Coffee Tampa, FL",Plastic goods,sleeve,525.3,20
+"Qargo Coffee Tampa, FL",Plastic goods,straw,419.35,20
+"Qargo Coffee Washington, DC (Lafayette)",Coffee,g,22406.7095,20
+"Qargo Coffee Washington, DC (Lafayette)",Coffee,ml,69254.20909300001,20
+"Qargo Coffee Washington, DC (Lafayette)",Dairy,g,21.343684210526316,20
+"Qargo Coffee Washington, DC (Lafayette)",Dairy,ml,101990.02918762501,20
+"Qargo Coffee Washington, DC (Lafayette)",Plastic goods,cup,558.4,20
+"Qargo Coffee Washington, DC (Lafayette)",Plastic goods,lid,558.4,20
+"Qargo Coffee Washington, DC (Lafayette)",Plastic goods,napkin,509.9,20
+"Qargo Coffee Washington, DC (Lafayette)",Plastic goods,sleeve,391.35,20
+"Qargo Coffee Washington, DC (Lafayette)",Plastic goods,straw,112.95,20
+"Qargo Coffee Westerville, OH",Coffee,g,27403.9305,20
+"Qargo Coffee Westerville, OH",Coffee,ml,45627.041757,20
+"Qargo Coffee Westerville, OH",Dairy,g,25.305500000000002,20
+"Qargo Coffee Westerville, OH",Dairy,ml,138314.1914115,20
+"Qargo Coffee Westerville, OH",Plastic goods,cup,572.05,20
+"Qargo Coffee Westerville, OH",Plastic goods,lid,572.05,20
+"Qargo Coffee Westerville, OH",Plastic goods,napkin,548.85,20
+"Qargo Coffee Westerville, OH",Plastic goods,sleeve,292.6,20
+"Qargo Coffee Westerville, OH",Plastic goods,straw,247.35,20

@@ -1,0 +1,141 @@
+ingredient,category,unit_base,notes
+"Add Ons:
+Caramel Sauce
+Chocolate Sauce
+White Chocolate Sauce",Other,pump,Topping sauce
+Almond Milk,Dairy,ml,Plant-based milk alternative
+Arugula,Other,g,Leafy green
+Avocado,Other,g,Vegetable ingredient
+Bagel,Other,unit,Bread product
+Balsamic Vinegar,Other,ml,Condiment
+Basil,Other,g,Herb
+Batter,Other,g,Waffle/pancake batter
+Bindi Margherita Pinsa,Other,unit,Pre-made pizza base
+Black Tea,Other,bag,Tea ingredient
+Bombay Chai tea,Other,bag,Tea ingredient
+Brewed Coffee,Coffee,ml,Hot drip coffee
+Brewed Cold Tea,Other,ml,Pre-brewed tea
+Brown Sugar,Other,g,Sweetener
+Capers,Other,g,Garnish
+Chai Tea Concentrate,Other,ml,Tea concentrate
+Chia Seeds,Other,g,Nutritional add-on
+Chocolate Gelato,Other,g,Ice cream product
+Chocolate Powder,Other,g,Cocoa powder for drinks
+Chocolate Sauce,Other,pump,Topping sauce
+"Choice of Bread 
+(Butter Croissant or Bagel)",Dairy,g,Cooking fat
+Cinnamon Powder,Other,g,Spice
+Cinnamon Syrup,Other,g,Spice
+Club Soda,Other,ml,Carbonated water - exclude from supply calc
+Coconut Cold Foam,Dairy,ml,Frothed milk topping
+Coconut Flakes,Other,g,Topping
+Coconut Milk,Dairy,ml,Plant-based milk alternative
+Coconut Syrup,Other,pump,Auto-classified - flavoring
+Cold Brew,Coffee,ml,Cold brew base
+Cold Cappuccino Foam,Dairy,ml,Cold foam topping
+Cold Coffee,Coffee,ml,Auto-classified as coffee
+Cold Milk,Dairy,ml,Cold milk for iced drinks
+Confectioners Sugar,Other,g,Sweetener
+Cream Base,Dairy,ml,Auto-classified as dairy
+Cream Cheese,Dairy,g,Spread for bagels
+Croissant,Other,unit,Pastry
+Crumbled Blue Cheese,Dairy,ml,Auto-classified as dairy
+Crushed Oreo,Other,g,Cookie topping
+Crushed Oreo (Topping),Other,g,Cookie topping
+Crushed Pistachio,Other,g,Nut topping
+Dragon Fruit Syrup,Other,pump,Auto-classified - flavoring
+Dried Oregano,Other,g,Herb seasoning
+Dried oregano,Other,g,Herb seasoning
+Espreso,Coffee,g,Typo: should be Espresso
+Espresso,Coffee,g,"Shot: 28g Standard, 42.5g Lungo"
+Focaccia,Other,unit,Bread product
+Focaccia / Ciabatta,Other,unit,Bread product
+Fresh Basil,Other,g,Herb
+Fresh Mozzarella,Dairy,g,Fresh cheese
+"Fruit Options 
+(As requested by the customer)",Other,g,Variable fruit mix
+"Gelato
+(Flavor of choice)",Other,g,Ice cream product
+"Gelato in Cup
+(Flavor of choice)",Other,g,Ice cream product
+Ginger Syrup,Other,pump,Auto-classified - flavoring
+Greek Yogurt,Dairy,g,Yogurt
+Green Tea * (Not for Kids),Other,bag,Tea ingredient
+Grilled Chicken Breast,Other,g,Protein
+Ground Espresso,Coffee,g,"Shot: 28g Standard, 42.5g Lungo"
+Hazelnut Syrup,Other,pump,Flavor syrup
+Honey Oat Granola,Other,ml,Sweetener
+Hot Water,Other,ml,Water - typically excluded from supply calc
+Hot Water for Syrup,Other,ml,Water - typically excluded from supply calc
+Hot water,Other,ml,Water - typically excluded from supply calc
+Ice Cubes,Plastic goods,cup,Ice for cold drinks - classify as plastic due to single-use nature
+Lemon Juice,Other,g,Fruit ingredient
+Lotus Blue Raspberry Fruit Fusion,Other,g,Fruit ingredient
+Lotus Mango Passion Fruit Fusion,Other,g,Fruit ingredient
+Lotus Orange Creamsicle Fruit Fusion,Other,g,Fruit ingredient
+Lotus Piña Colada Fruit Fusion,Other,ml,Fruit mix concentrate
+Lotus Strawberry Fruit Fusion,Other,g,Fruit ingredient
+Lungo Espresso Shot,Coffee,g,"Shot: 28g Standard, 42.5g Lungo"
+Mango Passion Fruit Fusion,Other,g,Fruit ingredient
+Mango Syrup,Other,g,Fruit ingredient
+Matcha,Other,g,Tea powder
+Matcha (Culinary Grade),Other,g,Matcha powder for drinks
+Matcha (Topping),Other,g,Matcha powder topping
+Mayonnaise,Other,ml,Condiment
+Mexican Hibiscus Mango & Moringa Infusion,Other,g,Fruit ingredient
+Milk,Dairy,ml,Whole milk base
+Mozzarella Cheese,Dairy,g,Pizza/sandwich cheese
+Mustard,Other,ml,Condiment
+Natural Orange Food Coloring,Other,g,Fruit ingredient
+Nitro Cold Brew,Coffee,ml,Auto-classified as coffee
+Olive Oil,Other,ml,Cooking oil
+Olive oil,Other,ml,Cooking oil
+PAM Spray,Other,ml,Cooking spray
+Pancake Premix,Other,g,Pancake batter mix
+Pepper,Other,g,Seasoning
+Pesto,Other,g,Sauce
+Pina Colada Fruit Fusion,Other,ml,Fruit mix concentrate
+Pinsa / Ciabatta,Other,unit,Bread product
+Pinsa / Focaccia,Other,unit,Bread product
+Prosciutto,Other,g,Protein
+Pure Cane Syrup,Other,pump,Auto-classified - flavoring
+Roasted Bell Peppers,Other,g,Seasoning
+Rose Syrup,Other,pump,Auto-classified - flavoring
+Salt,Other,g,Seasoning
+"Sauce
+(Flavor of choice)",Other,pump,Auto-classified - flavoring
+"Sauce Options
+(As requested by the customer)",Other,pump,Auto-classified - flavoring
+Scrambled Egg Patty,Other,unit,Protein
+Seasoning Mix,Other,g,Spice blend
+Sliced Cheddar Cheese,Dairy,ml,Auto-classified as dairy
+Sliced Mozzarella Cheese,Dairy,g,Pizza/sandwich cheese
+Sliced Pickles,Other,g,Condiment
+Sliced Tomatoes,Other,g,Vegetable ingredient
+Smoked Salmon,Other,g,Protein
+Smoked salmon,Other,g,Protein
+Sprint Base (Assorted Flavors),Other,ml,Energy drink base
+Standard Espresso Shot,Coffee,g,"Shot: 28g Standard, 42.5g Lungo"
+Strawberry Fruit Fusion,Other,g,Fruit ingredient
+Strawberry Fruit Puree,Other,g,Fruit ingredient
+Sweet Potato Puree,Other,g,Vegetable puree
+Sweetner syrup (optional),Other,pump,Flavor syrup - not core supply
+Syrup (Customer's Choice),Other,pump,Auto-classified - flavoring
+Syrup (Optional),Other,pump,Flavor syrup - not core supply
+Tapioca Pearls,Other,g,Boba topping
+Taro Powder,Other,g,Taro flavoring powder
+Tea Bag,Other,bag,Tea ingredient
+Turkey Bacon,Other,g,Protein
+Turkey Sausage Patty,Other,g,Protein
+Vanilla Gelato,Other,g,Ice cream product
+Vanilla Powder,Other,g,Vanilla flavoring
+Vanilla Syrup,Other,pump,Flavor syrup
+Water,Other,ml,Water - typically excluded from supply calc
+Water for Cooking,Other,ml,Water - typically excluded from supply calc
+Watermelon Fruit Fusion,Other,ml,Water - typically excluded from supply calc
+Whey Protein (Add On),Other,g,Protein supplement add-on
+Whipped Cream,Dairy,ml,Optional topping
+Whipped Cream (Optional),Dairy,ml,Optional topping
+White Chocolate Sauce,Other,pump,Topping sauce
+White Lotus,Other,ml,Energy drink ingredient
+White Lotus* (Not for Kids),Other,ml,Energy drink ingredient
