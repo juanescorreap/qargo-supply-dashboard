@@ -257,14 +257,14 @@ def _sort_agg_cols(cols):
 # ── Overview ──────────────────────────────────────────────────────────────────
 with tab_overview:
     view_mode = st.radio(
-        "Nivel de detalle",
-        ["Categorías principales", "Desglose por ingrediente"],
+        "Detail level",
+        ["Main categories", "Ingredient breakdown"],
         horizontal=True,
     )
 
     store_col = "store_short"
 
-    if view_mode == "Categorías principales":
+    if view_mode == "Main categories":
         pivot = (
             sum_filt
             .groupby(["store", "label"])["avg_weekly_consumption"]
@@ -298,7 +298,7 @@ with tab_overview:
         table.columns.name = None
         st.dataframe(table, use_container_width=True)
 
-    st.caption("Valores = promedio semanal por tienda (con merma). Tiendas excluidas: " + ", ".join(EXCLUDED_STORES))
+    st.caption("Values = weekly average per store (waste included). Excluded stores: " + ", ".join(EXCLUDED_STORES))
 
 
 # ── Coffee ────────────────────────────────────────────────────────────────────
