@@ -12,22 +12,37 @@ st.set_page_config(
 
 BASE_DIR = Path(__file__).parent
 MIN_RELIABLE_WEEKS = 8
-EXCLUDED_STORES = ['183', 'Nashua']
+EXCLUDED_STORES = ['183', 'Nashua', 'Lab-01']
 
 CATEGORY_LABELS = {
-    ("Coffee", "g"):              "Espresso / Ground Coffee (kg)",
-    ("Coffee", "ml"):             "Cold Brew / Drip Coffee (L)",
-    ("Dairy", "ml"):              "Liquid Dairy (L)",
-    ("Dairy", "g"):               "Solid Dairy (kg)",
-    ("Specialty Milk", "ml"):     "Specialty Milk (L)",
-    ("Syrups", "pump"):           "Syrups (pumps)",
-    ("Syrups", "g"):              "Syrups (g)",
-    ("Plastic goods", "cup"):     "Cups",
-    ("Plastic goods", "lid"):     "Lids",
-    ("Plastic goods", "sleeve"):  "Sleeves",
-    ("Plastic goods", "straw"):   "Straws",
-    ("Plastic goods", "napkin"):  "Napkins",
+    ("Coffee", "g"):              "Espresso & Ground Coffee (kg)",
+    ("Coffee", "ml"):             "Cold Brew & Drip Coffee (L)",
+    ("Dairy", "ml"):              "Traditional Dairy — Liquid (L)",
+    ("Dairy", "g"):               "Traditional Dairy — Solid (kg)",
+    ("Specialty Milk", "ml"):     "Plant-Based Milk (L)",
+    ("Syrups", "pump"):           "Syrups — Total (pumps)",
+    ("Syrups", "g"):              "Syrups — Total (kg)",
+    ("Plastic goods", "cup"):     "Cups — Total (units)",
+    ("Plastic goods", "lid"):     "Lids (units)",
+    ("Plastic goods", "sleeve"):  "Sleeves (units)",
+    ("Plastic goods", "straw"):   "Straws (units)",
+    ("Plastic goods", "napkin"):  "Napkins (units)",
 }
+
+# Orden lógico de columnas en vista agregada: café → lácteos → specialty → syrups → packaging
+COLUMN_ORDER_AGG = [
+    "Espresso & Ground Coffee (kg)",
+    "Cold Brew & Drip Coffee (L)",
+    "Traditional Dairy — Liquid (L)",
+    "Traditional Dairy — Solid (kg)",
+    "Plant-Based Milk (L)",
+    "Syrups — Total (pumps)",
+    "Cups — Total (units)",
+    "Lids (units)",
+    "Sleeves (units)",
+    "Straws (units)",
+    "Napkins (units)",
+]
 
 UNIT_DISPLAY = {
     ("Coffee", "g"):              "kg",
@@ -36,7 +51,7 @@ UNIT_DISPLAY = {
     ("Dairy", "g"):               "kg",
     ("Specialty Milk", "ml"):     "L",
     ("Syrups", "pump"):           "pumps",
-    ("Syrups", "g"):              "g",
+    ("Syrups", "g"):              "kg",
     ("Plastic goods", "cup"):     "units",
     ("Plastic goods", "lid"):     "units",
     ("Plastic goods", "sleeve"):  "units",
@@ -88,14 +103,35 @@ def load_data():
     summary["reliable"] = summary["store"].map(reliable) >= MIN_RELIABLE_WEEKS
     detail["reliable"]  = detail["store"].map(reliable)  >= MIN_RELIABLE_WEEKS
 
+    # Disaggregated labels (subcategory-level column names for overview)
+    def _disagg_label(row):
+        cat, sub, unit = row["category"], row["subcategory"] or "", row["unit"]
+        u = "kg" if unit == "g" else ("L" if unit == "ml" else unit)
+        if cat == "Coffee" or not sub:
+            return CATEGORY_LABELS.get((cat, unit), f"{cat} ({u})")
+        if cat in ("Dairy", "Specialty Milk"):
+            return f"{sub} ({u})"
+        if cat == "Syrups":
+            return f"{sub} (pumps)"
+        if cat == "Plastic goods":
+            if sub.startswith("cup_"):
+                return "Cup " + sub.replace("cup_", "")
+            return {"lid": "Lids", "sleeve": "Sleeves", "straw": "Straws",
+                    "napkin": "Napkins", "bag": "Bags"}.get(sub, sub.capitalize())
+        return CATEGORY_LABELS.get((cat, unit), f"{cat} ({u})")
+
+    summary["disagg_label"] = summary.apply(_disagg_label, axis=1)
+    # Map disagg_label → category for column ordering
+    disagg_label_cat = dict(zip(summary["disagg_label"], summary["category"]))
+
     # Bev vs Food stats
     bev_food_path = BASE_DIR / "bev_food_stats.csv"
     bev_food = pd.read_csv(bev_food_path) if bev_food_path.exists() else None
 
-    return detail, summary, bev_food
+    return detail, summary, disagg_label_cat, bev_food
 
 
-detail_df, summary_df, bev_food_df = load_data()
+detail_df, summary_df, disagg_label_cat, bev_food_df = load_data()
 all_stores = sorted(detail_df["store"].unique())
 unreliable_stores = summary_df[~summary_df["reliable"]]["store"].unique().tolist()
 
@@ -185,24 +221,77 @@ tab_overview, tab_coffee, tab_dairy, tab_specialty, tab_syrups, tab_packaging, t
 )
 
 
+# ── Helpers para Overview ─────────────────────────────────────────────────────
+def _sort_disagg_cols(cols):
+    """Ordena columnas desagregadas: café → lácteos trad → plant-based → syrups → cups → packaging."""
+    CAT_RANK = {"Coffee": 0, "Dairy": 1, "Specialty Milk": 2, "Syrups": 3, "Plastic goods": 4, "Paper goods": 5}
+    CUP_RANK = {"Cup 12oz": 0, "Cup 16oz": 1, "Cup 20oz": 2, "Cup 24oz": 3}
+    PKG_RANK = {"Lids": 0, "Sleeves": 1, "Straws": 2, "Napkins": 3, "Bags": 4}
+
+    def _key(c):
+        cat = disagg_label_cat.get(c, "Z")
+        r = CAT_RANK.get(cat, 9)
+        if c in CUP_RANK:
+            return (r, CUP_RANK[c], c)
+        if c in PKG_RANK:
+            return (r, 10 + PKG_RANK[c], c)
+        return (r, 0, c)
+
+    return sorted(cols, key=_key)
+
+
+def _sort_agg_cols(cols):
+    """Ordena columnas agregadas según COLUMN_ORDER_AGG; el resto al final."""
+    known = [c for c in COLUMN_ORDER_AGG if c in cols]
+    rest  = sorted(c for c in cols if c not in known)
+    return known + rest
+
+
 # ── Overview ──────────────────────────────────────────────────────────────────
 with tab_overview:
-    st.subheader("Weekly average by store")
-
-    pivot = (
-        sum_filt.groupby(["store", "label", "unit_display"])["avg_weekly_consumption"]
-        .mean()
-        .reset_index()
+    view_mode = st.radio(
+        "Nivel de detalle",
+        ["Categorías principales", "Desglose por ingrediente"],
+        horizontal=True,
     )
-    pivot["store_short"] = pivot["store"].str.replace("Qargo Coffee ", "", regex=False)
 
-    table = pivot.pivot_table(
-        index="store_short",
-        columns="label",
-        values="avg_weekly_consumption",
-        aggfunc="mean",
-    ).round(2)
-    st.dataframe(table, use_container_width=True)
+    store_col = "store_short"
+
+    if view_mode == "Categorías principales":
+        pivot = (
+            sum_filt
+            .groupby(["store", "label"])["avg_weekly_consumption"]
+            .sum()
+            .reset_index()
+        )
+        pivot[store_col] = pivot["store"].str.replace("Qargo Coffee ", "", regex=False)
+        table = pivot.pivot_table(
+            index=store_col, columns="label",
+            values="avg_weekly_consumption", aggfunc="sum",
+        ).round(1)
+        ordered_cols = _sort_agg_cols(table.columns.tolist())
+        table = table[[c for c in ordered_cols if c in table.columns]]
+        table.columns.name = None
+        st.dataframe(table, use_container_width=True)
+
+    else:
+        pivot = (
+            sum_filt
+            .groupby(["store", "disagg_label"])["avg_weekly_consumption"]
+            .sum()
+            .reset_index()
+        )
+        pivot[store_col] = pivot["store"].str.replace("Qargo Coffee ", "", regex=False)
+        table = pivot.pivot_table(
+            index=store_col, columns="disagg_label",
+            values="avg_weekly_consumption", aggfunc="sum",
+        ).round(1)
+        ordered_cols = _sort_disagg_cols(table.columns.tolist())
+        table = table[[c for c in ordered_cols if c in table.columns]]
+        table.columns.name = None
+        st.dataframe(table, use_container_width=True)
+
+    st.caption("Valores = promedio semanal por tienda (con merma). Tiendas excluidas: " + ", ".join(EXCLUDED_STORES))
 
 
 # ── Coffee ────────────────────────────────────────────────────────────────────
