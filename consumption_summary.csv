@@ -1,168 +1,490 @@
-store,category,unit,avg_weekly_consumption,weeks_with_data
-Qargo Coffee **Lab-01**,Coffee,g,416.06105263157895,19
-Qargo Coffee **Lab-01**,Coffee,ml,2614.354786923077,19
-Qargo Coffee **Lab-01**,Dairy,g,4.815,19
-Qargo Coffee **Lab-01**,Dairy,ml,3608.715099605263,19
-Qargo Coffee **Lab-01**,Plastic goods,cup,14.473684210526315,19
-Qargo Coffee **Lab-01**,Plastic goods,lid,14.473684210526315,19
-Qargo Coffee **Lab-01**,Plastic goods,napkin,13.0,19
-Qargo Coffee **Lab-01**,Plastic goods,sleeve,11.105263157894736,19
-Qargo Coffee **Lab-01**,Plastic goods,straw,2.2857142857142856,19
-"Qargo Coffee 707 E Ocean, Long Beach, CA",Coffee,g,31296.403250000003,20
-"Qargo Coffee 707 E Ocean, Long Beach, CA",Coffee,ml,85516.29839400001,20
-"Qargo Coffee 707 E Ocean, Long Beach, CA",Dairy,g,38.8945,20
-"Qargo Coffee 707 E Ocean, Long Beach, CA",Dairy,ml,149704.807249375,20
-"Qargo Coffee 707 E Ocean, Long Beach, CA",Plastic goods,cup,812.0,20
-"Qargo Coffee 707 E Ocean, Long Beach, CA",Plastic goods,lid,812.0,20
-"Qargo Coffee 707 E Ocean, Long Beach, CA",Plastic goods,napkin,753.7,20
-"Qargo Coffee 707 E Ocean, Long Beach, CA",Plastic goods,sleeve,431.1,20
-"Qargo Coffee 707 E Ocean, Long Beach, CA",Plastic goods,straw,313.3,20
-"Qargo Coffee Dearborn, MI",Coffee,g,44918.03825,20
-"Qargo Coffee Dearborn, MI",Coffee,ml,44318.802833,20
-"Qargo Coffee Dearborn, MI",Dairy,g,125.19000000000001,20
-"Qargo Coffee Dearborn, MI",Dairy,ml,247307.83218375003,20
-"Qargo Coffee Dearborn, MI",Plastic goods,cup,1275.45,20
-"Qargo Coffee Dearborn, MI",Plastic goods,lid,1275.45,20
-"Qargo Coffee Dearborn, MI",Plastic goods,napkin,1106.35,20
-"Qargo Coffee Dearborn, MI",Plastic goods,sleeve,480.5,20
-"Qargo Coffee Dearborn, MI",Plastic goods,straw,578.15,20
-"Qargo Coffee Detroit, MI",Coffee,g,24781.92225,20
-"Qargo Coffee Detroit, MI",Coffee,ml,88283.7932065,20
-"Qargo Coffee Detroit, MI",Dairy,g,47.507999999999996,20
-"Qargo Coffee Detroit, MI",Dairy,ml,141792.533354375,20
-"Qargo Coffee Detroit, MI",Plastic goods,cup,700.85,20
-"Qargo Coffee Detroit, MI",Plastic goods,lid,700.85,20
-"Qargo Coffee Detroit, MI",Plastic goods,napkin,637.25,20
-"Qargo Coffee Detroit, MI",Plastic goods,sleeve,403.85,20
-"Qargo Coffee Detroit, MI",Plastic goods,straw,221.3,20
-"Qargo Coffee Edinburg, TX",Coffee,g,27625.795000000002,20
-"Qargo Coffee Edinburg, TX",Coffee,ml,24773.9143165,20
-"Qargo Coffee Edinburg, TX",Dairy,g,20.73125,20
-"Qargo Coffee Edinburg, TX",Dairy,ml,144630.471857625,20
-"Qargo Coffee Edinburg, TX",Plastic goods,cup,600.7,20
-"Qargo Coffee Edinburg, TX",Plastic goods,lid,600.7,20
-"Qargo Coffee Edinburg, TX",Plastic goods,napkin,560.0,20
-"Qargo Coffee Edinburg, TX",Plastic goods,sleeve,247.55,20
-"Qargo Coffee Edinburg, TX",Plastic goods,straw,298.75,20
-"Qargo Coffee Grand Prairie, TX",Coffee,g,26625.262692307697,13
-"Qargo Coffee Grand Prairie, TX",Coffee,ml,25495.17330307692,13
-"Qargo Coffee Grand Prairie, TX",Dairy,g,27.696538461538463,13
-"Qargo Coffee Grand Prairie, TX",Dairy,ml,145420.24441442307,13
-"Qargo Coffee Grand Prairie, TX",Plastic goods,cup,583.5384615384615,13
-"Qargo Coffee Grand Prairie, TX",Plastic goods,lid,583.5384615384615,13
-"Qargo Coffee Grand Prairie, TX",Plastic goods,napkin,555.3076923076923,13
-"Qargo Coffee Grand Prairie, TX",Plastic goods,sleeve,256.0,13
-"Qargo Coffee Grand Prairie, TX",Plastic goods,straw,282.6923076923077,13
-"Qargo Coffee Las Vegas, NV",Coffee,g,19959.334166666667,12
-"Qargo Coffee Las Vegas, NV",Coffee,ml,20276.559830833332,12
-"Qargo Coffee Las Vegas, NV",Dairy,g,61.8995,12
-"Qargo Coffee Las Vegas, NV",Dairy,ml,88274.80407854165,12
-"Qargo Coffee Las Vegas, NV",Plastic goods,cup,446.4166666666667,12
-"Qargo Coffee Las Vegas, NV",Plastic goods,lid,446.4166666666667,12
-"Qargo Coffee Las Vegas, NV",Plastic goods,napkin,405.5833333333333,12
-"Qargo Coffee Las Vegas, NV",Plastic goods,sleeve,148.41666666666666,12
-"Qargo Coffee Las Vegas, NV",Plastic goods,straw,267.09090909090907,12
-"Qargo Coffee Meijer #169, Bolingbrook, IL",Coffee,g,9090.72,20
-"Qargo Coffee Meijer #169, Bolingbrook, IL",Coffee,ml,15171.600673500001,20
-"Qargo Coffee Meijer #169, Bolingbrook, IL",Dairy,g,20.89175,20
-"Qargo Coffee Meijer #169, Bolingbrook, IL",Dairy,ml,56918.039565,20
-"Qargo Coffee Meijer #169, Bolingbrook, IL",Plastic goods,cup,252.7,20
-"Qargo Coffee Meijer #169, Bolingbrook, IL",Plastic goods,lid,252.7,20
-"Qargo Coffee Meijer #169, Bolingbrook, IL",Plastic goods,napkin,242.55,20
-"Qargo Coffee Meijer #169, Bolingbrook, IL",Plastic goods,sleeve,107.95,20
-"Qargo Coffee Meijer #169, Bolingbrook, IL",Plastic goods,straw,119.2,20
-"Qargo Coffee Meijer #182, St Charles, IL",Coffee,g,15272.644999999999,18
-"Qargo Coffee Meijer #182, St Charles, IL",Coffee,ml,51294.37565166667,18
-"Qargo Coffee Meijer #182, St Charles, IL",Dairy,g,39.14416666666667,18
-"Qargo Coffee Meijer #182, St Charles, IL",Dairy,ml,76300.31772347222,18
-"Qargo Coffee Meijer #182, St Charles, IL",Plastic goods,cup,410.8333333333333,18
-"Qargo Coffee Meijer #182, St Charles, IL",Plastic goods,lid,410.8333333333333,18
-"Qargo Coffee Meijer #182, St Charles, IL",Plastic goods,napkin,390.3888888888889,18
-"Qargo Coffee Meijer #182, St Charles, IL",Plastic goods,sleeve,211.72222222222223,18
-"Qargo Coffee Meijer #182, St Charles, IL",Plastic goods,straw,164.22222222222223,18
-"Qargo Coffee Meijer #183 Elgin, IL",Coffee,ml,2531.4916000000003,1
-"Qargo Coffee Meijer #183 Elgin, IL",Plastic goods,cup,4.0,1
-"Qargo Coffee Meijer #183 Elgin, IL",Plastic goods,lid,4.0,1
-"Qargo Coffee Meijer #183 Elgin, IL",Plastic goods,napkin,4.0,1
-"Qargo Coffee Meijer #183 Elgin, IL",Plastic goods,sleeve,4.0,1
-"Qargo Coffee Meijer #215, Bolingbrook, IL",Coffee,g,10831.396,20
-"Qargo Coffee Meijer #215, Bolingbrook, IL",Coffee,ml,18766.479245500002,20
-"Qargo Coffee Meijer #215, Bolingbrook, IL",Dairy,g,29.71925,20
-"Qargo Coffee Meijer #215, Bolingbrook, IL",Dairy,ml,55130.22789825,20
-"Qargo Coffee Meijer #215, Bolingbrook, IL",Plastic goods,cup,263.0,20
-"Qargo Coffee Meijer #215, Bolingbrook, IL",Plastic goods,lid,263.0,20
-"Qargo Coffee Meijer #215, Bolingbrook, IL",Plastic goods,napkin,249.2,20
-"Qargo Coffee Meijer #215, Bolingbrook, IL",Plastic goods,sleeve,116.3,20
-"Qargo Coffee Meijer #215, Bolingbrook, IL",Plastic goods,straw,119.8,20
-"Qargo Coffee Nashua, NH",Coffee,g,1915.835,3
-"Qargo Coffee Nashua, NH",Coffee,ml,3881.6204533333344,3
-"Qargo Coffee Nashua, NH",Dairy,g,3.745,3
-"Qargo Coffee Nashua, NH",Dairy,ml,7880.337605000001,3
-"Qargo Coffee Nashua, NH",Plastic goods,cup,23.666666666666668,3
-"Qargo Coffee Nashua, NH",Plastic goods,lid,23.666666666666668,3
-"Qargo Coffee Nashua, NH",Plastic goods,napkin,23.0,3
-"Qargo Coffee Nashua, NH",Plastic goods,sleeve,20.0,3
-"Qargo Coffee Nashua, NH",Plastic goods,straw,3.5,3
-"Qargo Coffee Orland Park, IL",Coffee,g,46103.8925,17
-"Qargo Coffee Orland Park, IL",Coffee,ml,38855.5784825,17
-"Qargo Coffee Orland Park, IL",Dairy,g,112.50285714285714,17
-"Qargo Coffee Orland Park, IL",Dairy,ml,225624.71551703126,17
-"Qargo Coffee Orland Park, IL",Plastic goods,cup,904.4705882352941,17
-"Qargo Coffee Orland Park, IL",Plastic goods,lid,904.4705882352941,17
-"Qargo Coffee Orland Park, IL",Plastic goods,napkin,895.7647058823529,17
-"Qargo Coffee Orland Park, IL",Plastic goods,sleeve,323.1764705882353,17
-"Qargo Coffee Orland Park, IL",Plastic goods,straw,586.2666666666667,17
-"Qargo Coffee San Antonio, TX",Coffee,g,40634.988750000004,20
-"Qargo Coffee San Antonio, TX",Coffee,ml,21788.979989,20
-"Qargo Coffee San Antonio, TX",Dairy,g,44.2445,20
-"Qargo Coffee San Antonio, TX",Dairy,ml,225127.33286837503,20
-"Qargo Coffee San Antonio, TX",Plastic goods,cup,854.65,20
-"Qargo Coffee San Antonio, TX",Plastic goods,lid,854.65,20
-"Qargo Coffee San Antonio, TX",Plastic goods,napkin,830.45,20
-"Qargo Coffee San Antonio, TX",Plastic goods,sleeve,302.75,20
-"Qargo Coffee San Antonio, TX",Plastic goods,straw,500.4,20
-"Qargo Coffee St Louis, MO",Coffee,g,10527.4625,6
-"Qargo Coffee St Louis, MO",Coffee,ml,7269.006301666667,6
-"Qargo Coffee St Louis, MO",Dairy,g,55.28333333333334,6
-"Qargo Coffee St Louis, MO",Dairy,ml,53348.717046875,6
-"Qargo Coffee St Louis, MO",Plastic goods,cup,163.33333333333334,6
-"Qargo Coffee St Louis, MO",Plastic goods,lid,163.33333333333334,6
-"Qargo Coffee St Louis, MO",Plastic goods,napkin,157.83333333333334,6
-"Qargo Coffee St Louis, MO",Plastic goods,sleeve,70.33333333333333,6
-"Qargo Coffee St Louis, MO",Plastic goods,straw,155.0,6
-"Qargo Coffee St Petersburg, FL",Coffee,g,9853.28225,20
-"Qargo Coffee St Petersburg, FL",Coffee,ml,15311.153711500001,20
-"Qargo Coffee St Petersburg, FL",Dairy,g,13.226388888888888,20
-"Qargo Coffee St Petersburg, FL",Dairy,ml,45969.757313375,20
-"Qargo Coffee St Petersburg, FL",Plastic goods,cup,227.0,20
-"Qargo Coffee St Petersburg, FL",Plastic goods,lid,227.0,20
-"Qargo Coffee St Petersburg, FL",Plastic goods,napkin,200.95,20
-"Qargo Coffee St Petersburg, FL",Plastic goods,sleeve,96.55,20
-"Qargo Coffee St Petersburg, FL",Plastic goods,straw,100.5,20
-"Qargo Coffee Tampa, FL",Coffee,g,49613.25175,20
-"Qargo Coffee Tampa, FL",Coffee,ml,86388.73776700001,20
-"Qargo Coffee Tampa, FL",Dairy,g,61.5785,20
-"Qargo Coffee Tampa, FL",Dairy,ml,206301.62172650002,20
-"Qargo Coffee Tampa, FL",Plastic goods,cup,1066.5,20
-"Qargo Coffee Tampa, FL",Plastic goods,lid,1066.5,20
-"Qargo Coffee Tampa, FL",Plastic goods,napkin,962.25,20
-"Qargo Coffee Tampa, FL",Plastic goods,sleeve,525.3,20
-"Qargo Coffee Tampa, FL",Plastic goods,straw,419.35,20
-"Qargo Coffee Washington, DC (Lafayette)",Coffee,g,22406.7095,20
-"Qargo Coffee Washington, DC (Lafayette)",Coffee,ml,69254.20909300001,20
-"Qargo Coffee Washington, DC (Lafayette)",Dairy,g,21.343684210526316,20
-"Qargo Coffee Washington, DC (Lafayette)",Dairy,ml,101990.02918762501,20
-"Qargo Coffee Washington, DC (Lafayette)",Plastic goods,cup,558.4,20
-"Qargo Coffee Washington, DC (Lafayette)",Plastic goods,lid,558.4,20
-"Qargo Coffee Washington, DC (Lafayette)",Plastic goods,napkin,509.9,20
-"Qargo Coffee Washington, DC (Lafayette)",Plastic goods,sleeve,391.35,20
-"Qargo Coffee Washington, DC (Lafayette)",Plastic goods,straw,112.95,20
-"Qargo Coffee Westerville, OH",Coffee,g,27403.9305,20
-"Qargo Coffee Westerville, OH",Coffee,ml,45627.041757,20
-"Qargo Coffee Westerville, OH",Dairy,g,25.305500000000002,20
-"Qargo Coffee Westerville, OH",Dairy,ml,138314.1914115,20
-"Qargo Coffee Westerville, OH",Plastic goods,cup,572.05,20
-"Qargo Coffee Westerville, OH",Plastic goods,lid,572.05,20
-"Qargo Coffee Westerville, OH",Plastic goods,napkin,548.85,20
-"Qargo Coffee Westerville, OH",Plastic goods,sleeve,292.6,20
-"Qargo Coffee Westerville, OH",Plastic goods,straw,247.35,20
+store,category,subcategory,unit,avg_weekly_consumption,weeks_with_data
+Qargo Coffee **Lab-01**,Coffee,,g,416.06105263157895,19
+Qargo Coffee **Lab-01**,Coffee,,ml,2614.354786923077,19
+Qargo Coffee **Lab-01**,Dairy,Coconut Cold Foam,ml,158.218225,19
+Qargo Coffee **Lab-01**,Dairy,Cold Cappuccino Foam,ml,63.28729,19
+Qargo Coffee **Lab-01**,Dairy,Cold Milk,ml,421.9152666666667,19
+Qargo Coffee **Lab-01**,Dairy,Cream Base,g,7.49,19
+Qargo Coffee **Lab-01**,Dairy,Greek Yogurt,g,2.14,19
+Qargo Coffee **Lab-01**,Dairy,Milk,ml,3446.6591224999997,19
+Qargo Coffee **Lab-01**,Dairy,Whipped Cream,ml,1.605,19
+Qargo Coffee **Lab-01**,Dairy,Whipped Cream (Optional),ml,1.605,19
+Qargo Coffee **Lab-01**,Plastic goods,cup_12oz,cup,3.090909090909091,19
+Qargo Coffee **Lab-01**,Plastic goods,cup_16oz,cup,2.25,19
+Qargo Coffee **Lab-01**,Plastic goods,cup_20oz,cup,13.0,19
+Qargo Coffee **Lab-01**,Plastic goods,cup_24oz,cup,1.2,19
+Qargo Coffee **Lab-01**,Plastic goods,lid,lid,14.473684210526315,19
+Qargo Coffee **Lab-01**,Plastic goods,napkin,napkin,13.0,19
+Qargo Coffee **Lab-01**,Plastic goods,sleeve,sleeve,11.105263157894736,19
+Qargo Coffee **Lab-01**,Plastic goods,straw,straw,2.2857142857142856,19
+Qargo Coffee **Lab-01**,Syrups,Chocolate Sauce,pump,4.0,19
+Qargo Coffee **Lab-01**,Syrups,Coconut Syrup,pump,6.8,19
+Qargo Coffee **Lab-01**,Syrups,Dragon Fruit Syrup,pump,8.5,19
+Qargo Coffee **Lab-01**,Syrups,Rose Syrup,pump,5.0,19
+Qargo Coffee **Lab-01**,Syrups,Syrup (Customer's Choice),pump,4.0,19
+Qargo Coffee **Lab-01**,Syrups,Syrup (Optional),pump,34.72222222222222,19
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Coffee,,g,31296.403250000003,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Coffee,,ml,85516.29839400001,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Dairy,Coconut Cold Foam,ml,2262.5206175,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Dairy,Cold Cappuccino Foam,ml,147.67034333333334,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Dairy,Cold Milk,ml,44930.811535500005,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Dairy,Cream Base,g,15.354500000000002,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Dairy,Greek Yogurt,g,23.54,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Dairy,Milk,ml,101410.762404875,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Dairy,Whipped Cream,ml,1.6050000000000002,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Dairy,Whipped Cream (Optional),ml,65.0025,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Plastic goods,cup_12oz,cup,51.35,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Plastic goods,cup_16oz,cup,508.2,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Plastic goods,cup_20oz,cup,196.65,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Plastic goods,cup_24oz,cup,55.8,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Plastic goods,lid,lid,812.0,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Plastic goods,napkin,napkin,753.7,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Plastic goods,sleeve,sleeve,431.1,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Plastic goods,straw,straw,313.3,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Specialty Milk,Almond Milk,ml,459.66558000000003,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Specialty Milk,Coconut Milk,ml,541.4579255555556,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Syrups,Chocolate Sauce,pump,130.7,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Syrups,Coconut Syrup,pump,115.5,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Syrups,Dragon Fruit Syrup,pump,55.05,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Syrups,Hazelnut Syrup,pump,14.526315789473685,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Syrups,Rose Syrup,pump,6.833333333333333,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Syrups,Sweetner syrup (optional),pump,72.45,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Syrups,Syrup (Customer's Choice),pump,50.05,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Syrups,Syrup (Optional),pump,2102.85,20
+"Qargo Coffee 707 E Ocean, Long Beach, CA",Syrups,Vanilla Syrup,pump,5.0,20
+"Qargo Coffee Dearborn, MI",Coffee,,g,44918.03825,20
+"Qargo Coffee Dearborn, MI",Coffee,,ml,44318.802833,20
+"Qargo Coffee Dearborn, MI",Dairy,Coconut Cold Foam,ml,1445.0597883333332,20
+"Qargo Coffee Dearborn, MI",Dairy,Cold Cappuccino Foam,ml,246.1172388888889,20
+"Qargo Coffee Dearborn, MI",Dairy,Cold Milk,ml,99993.9182,20
+"Qargo Coffee Dearborn, MI",Dairy,Cream Base,g,80.143,20
+"Qargo Coffee Dearborn, MI",Dairy,Greek Yogurt,g,45.047000000000004,20
+"Qargo Coffee Dearborn, MI",Dairy,Milk,ml,144965.86647399998,20
+"Qargo Coffee Dearborn, MI",Dairy,Whipped Cream,ml,5.631578947368421,20
+"Qargo Coffee Dearborn, MI",Dairy,Whipped Cream (Optional),ml,141.882,20
+"Qargo Coffee Dearborn, MI",Plastic goods,cup_12oz,cup,198.15,20
+"Qargo Coffee Dearborn, MI",Plastic goods,cup_16oz,cup,636.95,20
+"Qargo Coffee Dearborn, MI",Plastic goods,cup_20oz,cup,390.65,20
+"Qargo Coffee Dearborn, MI",Plastic goods,cup_24oz,cup,49.7,20
+"Qargo Coffee Dearborn, MI",Plastic goods,lid,lid,1275.45,20
+"Qargo Coffee Dearborn, MI",Plastic goods,napkin,napkin,1106.35,20
+"Qargo Coffee Dearborn, MI",Plastic goods,sleeve,sleeve,480.5,20
+"Qargo Coffee Dearborn, MI",Plastic goods,straw,straw,578.15,20
+"Qargo Coffee Dearborn, MI",Specialty Milk,Almond Milk,ml,501.0243791666666,20
+"Qargo Coffee Dearborn, MI",Specialty Milk,Coconut Milk,ml,444.59321225,20
+"Qargo Coffee Dearborn, MI",Syrups,Chocolate Sauce,pump,251.75,20
+"Qargo Coffee Dearborn, MI",Syrups,Cinnamon Syrup,pump,3.6666666666666665,20
+"Qargo Coffee Dearborn, MI",Syrups,Coconut Syrup,pump,71.7,20
+"Qargo Coffee Dearborn, MI",Syrups,Dragon Fruit Syrup,pump,293.35,20
+"Qargo Coffee Dearborn, MI",Syrups,Ginger Syrup,pump,3.6666666666666665,20
+"Qargo Coffee Dearborn, MI",Syrups,Hazelnut Syrup,pump,15.833333333333334,20
+"Qargo Coffee Dearborn, MI",Syrups,Pure Cane Syrup,pump,3.0,20
+"Qargo Coffee Dearborn, MI",Syrups,Rose Syrup,pump,17.95,20
+"Qargo Coffee Dearborn, MI",Syrups,Sweetner syrup (optional),pump,306.5,20
+"Qargo Coffee Dearborn, MI",Syrups,Syrup (Customer's Choice),pump,131.9,20
+"Qargo Coffee Dearborn, MI",Syrups,Syrup (Optional),pump,2422.05,20
+"Qargo Coffee Dearborn, MI",Syrups,Vanilla Syrup,pump,17.35,20
+"Qargo Coffee Detroit, MI",Coffee,,g,24781.92225,20
+"Qargo Coffee Detroit, MI",Coffee,,ml,88283.7932065,20
+"Qargo Coffee Detroit, MI",Dairy,Coconut Cold Foam,ml,820.7570421875,20
+"Qargo Coffee Detroit, MI",Dairy,Cold Cappuccino Foam,ml,79.1091125,20
+"Qargo Coffee Detroit, MI",Dairy,Cold Milk,ml,36681.313284,20
+"Qargo Coffee Detroit, MI",Dairy,Cream Base,g,23.258421052631576,20
+"Qargo Coffee Detroit, MI",Dairy,Greek Yogurt,g,25.4125,20
+"Qargo Coffee Detroit, MI",Dairy,Milk,ml,103601.29373,20
+"Qargo Coffee Detroit, MI",Dairy,Whipped Cream,ml,1.284,20
+"Qargo Coffee Detroit, MI",Dairy,Whipped Cream (Optional),ml,95.6045,20
+"Qargo Coffee Detroit, MI",Plastic goods,cup_12oz,cup,32.85,20
+"Qargo Coffee Detroit, MI",Plastic goods,cup_16oz,cup,302.1,20
+"Qargo Coffee Detroit, MI",Plastic goods,cup_20oz,cup,215.9,20
+"Qargo Coffee Detroit, MI",Plastic goods,cup_24oz,cup,150.0,20
+"Qargo Coffee Detroit, MI",Plastic goods,lid,lid,700.85,20
+"Qargo Coffee Detroit, MI",Plastic goods,napkin,napkin,637.25,20
+"Qargo Coffee Detroit, MI",Plastic goods,sleeve,sleeve,403.85,20
+"Qargo Coffee Detroit, MI",Plastic goods,straw,straw,221.3,20
+"Qargo Coffee Detroit, MI",Specialty Milk,Almond Milk,ml,621.214715,20
+"Qargo Coffee Detroit, MI",Specialty Milk,Coconut Milk,ml,447.75757675000006,20
+"Qargo Coffee Detroit, MI",Syrups,Chocolate Sauce,pump,223.85,20
+"Qargo Coffee Detroit, MI",Syrups,Coconut Syrup,pump,43.5,20
+"Qargo Coffee Detroit, MI",Syrups,Dragon Fruit Syrup,pump,51.6,20
+"Qargo Coffee Detroit, MI",Syrups,Hazelnut Syrup,pump,19.63157894736842,20
+"Qargo Coffee Detroit, MI",Syrups,Sweetner syrup (optional),pump,111.05,20
+"Qargo Coffee Detroit, MI",Syrups,Syrup (Customer's Choice),pump,90.1,20
+"Qargo Coffee Detroit, MI",Syrups,Syrup (Optional),pump,1793.3,20
+"Qargo Coffee Edinburg, TX",Coffee,,g,27625.795000000002,20
+"Qargo Coffee Edinburg, TX",Coffee,,ml,24773.9143165,20
+"Qargo Coffee Edinburg, TX",Dairy,Coconut Cold Foam,ml,980.952995,20
+"Qargo Coffee Edinburg, TX",Dairy,Cold Cappuccino Foam,ml,113.917122,20
+"Qargo Coffee Edinburg, TX",Dairy,Cold Milk,ml,59474.2307775,20
+"Qargo Coffee Edinburg, TX",Dairy,Cream Base,g,11.235,20
+"Qargo Coffee Edinburg, TX",Dairy,Greek Yogurt,g,10.058,20
+"Qargo Coffee Edinburg, TX",Dairy,Milk,ml,82989.414468125,20
+"Qargo Coffee Edinburg, TX",Dairy,Whipped Cream,ml,5.631578947368421,20
+"Qargo Coffee Edinburg, TX",Dairy,Whipped Cream (Optional),ml,85.6535,20
+"Qargo Coffee Edinburg, TX",Plastic goods,cup_12oz,cup,26.9,20
+"Qargo Coffee Edinburg, TX",Plastic goods,cup_16oz,cup,236.8,20
+"Qargo Coffee Edinburg, TX",Plastic goods,cup_20oz,cup,265.95,20
+"Qargo Coffee Edinburg, TX",Plastic goods,cup_24oz,cup,71.05,20
+"Qargo Coffee Edinburg, TX",Plastic goods,lid,lid,600.7,20
+"Qargo Coffee Edinburg, TX",Plastic goods,napkin,napkin,560.0,20
+"Qargo Coffee Edinburg, TX",Plastic goods,sleeve,sleeve,247.55,20
+"Qargo Coffee Edinburg, TX",Plastic goods,straw,straw,298.75,20
+"Qargo Coffee Edinburg, TX",Specialty Milk,Almond Milk,ml,645.530358,20
+"Qargo Coffee Edinburg, TX",Specialty Milk,Coconut Milk,ml,404.33546388888885,20
+"Qargo Coffee Edinburg, TX",Syrups,Chocolate Sauce,pump,193.6,20
+"Qargo Coffee Edinburg, TX",Syrups,Cinnamon Syrup,pump,3.0,20
+"Qargo Coffee Edinburg, TX",Syrups,Coconut Syrup,pump,62.05,20
+"Qargo Coffee Edinburg, TX",Syrups,Dragon Fruit Syrup,pump,75.4,20
+"Qargo Coffee Edinburg, TX",Syrups,Ginger Syrup,pump,3.0,20
+"Qargo Coffee Edinburg, TX",Syrups,Hazelnut Syrup,pump,20.4,20
+"Qargo Coffee Edinburg, TX",Syrups,Pure Cane Syrup,pump,5.0,20
+"Qargo Coffee Edinburg, TX",Syrups,Rose Syrup,pump,6.4,20
+"Qargo Coffee Edinburg, TX",Syrups,Sweetner syrup (optional),pump,171.05,20
+"Qargo Coffee Edinburg, TX",Syrups,Syrup (Customer's Choice),pump,60.35,20
+"Qargo Coffee Edinburg, TX",Syrups,Syrup (Optional),pump,1409.55,20
+"Qargo Coffee Edinburg, TX",Syrups,Vanilla Syrup,pump,7.6923076923076925,20
+"Qargo Coffee Grand Prairie, TX",Coffee,,g,26625.262692307697,13
+"Qargo Coffee Grand Prairie, TX",Coffee,,ml,25495.17330307692,13
+"Qargo Coffee Grand Prairie, TX",Dairy,Coconut Cold Foam,ml,4641.067933333334,13
+"Qargo Coffee Grand Prairie, TX",Dairy,Cold Cappuccino Foam,ml,155.78409846153846,13
+"Qargo Coffee Grand Prairie, TX",Dairy,Cold Milk,ml,39481.53245384616,13
+"Qargo Coffee Grand Prairie, TX",Dairy,Cream Base,g,15.91625,13
+"Qargo Coffee Grand Prairie, TX",Dairy,Greek Yogurt,g,14.088333333333333,13
+"Qargo Coffee Grand Prairie, TX",Dairy,Milk,ml,100659.65180826923,13
+"Qargo Coffee Grand Prairie, TX",Dairy,Whipped Cream,ml,7.489999999999999,13
+"Qargo Coffee Grand Prairie, TX",Dairy,Whipped Cream (Optional),ml,102.06153846153846,13
+"Qargo Coffee Grand Prairie, TX",Plastic goods,cup_12oz,cup,31.692307692307693,13
+"Qargo Coffee Grand Prairie, TX",Plastic goods,cup_16oz,cup,239.69230769230768,13
+"Qargo Coffee Grand Prairie, TX",Plastic goods,cup_20oz,cup,259.0,13
+"Qargo Coffee Grand Prairie, TX",Plastic goods,cup_24oz,cup,53.15384615384615,13
+"Qargo Coffee Grand Prairie, TX",Plastic goods,lid,lid,583.5384615384615,13
+"Qargo Coffee Grand Prairie, TX",Plastic goods,napkin,napkin,555.3076923076923,13
+"Qargo Coffee Grand Prairie, TX",Plastic goods,sleeve,sleeve,256.0,13
+"Qargo Coffee Grand Prairie, TX",Plastic goods,straw,straw,282.6923076923077,13
+"Qargo Coffee Grand Prairie, TX",Specialty Milk,Almond Milk,ml,711.9820125,13
+"Qargo Coffee Grand Prairie, TX",Specialty Milk,Coconut Milk,ml,296.65917187499997,13
+"Qargo Coffee Grand Prairie, TX",Syrups,Chocolate Sauce,pump,211.69230769230768,13
+"Qargo Coffee Grand Prairie, TX",Syrups,Coconut Syrup,pump,253.0,13
+"Qargo Coffee Grand Prairie, TX",Syrups,Dragon Fruit Syrup,pump,69.76923076923077,13
+"Qargo Coffee Grand Prairie, TX",Syrups,Hazelnut Syrup,pump,22.5,13
+"Qargo Coffee Grand Prairie, TX",Syrups,Sweetner syrup (optional),pump,67.92307692307692,13
+"Qargo Coffee Grand Prairie, TX",Syrups,Syrup (Customer's Choice),pump,102.46153846153847,13
+"Qargo Coffee Grand Prairie, TX",Syrups,Syrup (Optional),pump,1199.8461538461538,13
+"Qargo Coffee Grand Prairie, TX",Syrups,Vanilla Syrup,pump,2.0,13
+"Qargo Coffee Las Vegas, NV",Coffee,,g,19959.334166666667,12
+"Qargo Coffee Las Vegas, NV",Coffee,,ml,20276.559830833332,12
+"Qargo Coffee Las Vegas, NV",Dairy,Coconut Cold Foam,ml,2555.22433375,12
+"Qargo Coffee Las Vegas, NV",Dairy,Cold Cappuccino Foam,ml,262.1902014285714,12
+"Qargo Coffee Las Vegas, NV",Dairy,Cold Milk,ml,35251.02053,12
+"Qargo Coffee Las Vegas, NV",Dairy,Cream Base,g,29.543888888888887,12
+"Qargo Coffee Las Vegas, NV",Dairy,Greek Yogurt,g,35.31,12
+"Qargo Coffee Las Vegas, NV",Dairy,Milk,ml,56883.76693,12
+"Qargo Coffee Las Vegas, NV",Dairy,Whipped Cream,ml,1.498,12
+"Qargo Coffee Las Vegas, NV",Dairy,Whipped Cream (Optional),ml,60.455,12
+"Qargo Coffee Las Vegas, NV",Plastic goods,cup_12oz,cup,46.18181818181818,12
+"Qargo Coffee Las Vegas, NV",Plastic goods,cup_16oz,cup,167.58333333333334,12
+"Qargo Coffee Las Vegas, NV",Plastic goods,cup_20oz,cup,161.66666666666666,12
+"Qargo Coffee Las Vegas, NV",Plastic goods,cup_24oz,cup,89.8,12
+"Qargo Coffee Las Vegas, NV",Plastic goods,lid,lid,446.4166666666667,12
+"Qargo Coffee Las Vegas, NV",Plastic goods,napkin,napkin,405.5833333333333,12
+"Qargo Coffee Las Vegas, NV",Plastic goods,sleeve,sleeve,148.41666666666666,12
+"Qargo Coffee Las Vegas, NV",Plastic goods,straw,straw,267.09090909090907,12
+"Qargo Coffee Las Vegas, NV",Specialty Milk,Almond Milk,ml,1314.9692477777778,12
+"Qargo Coffee Las Vegas, NV",Specialty Milk,Coconut Milk,ml,854.378415,12
+"Qargo Coffee Las Vegas, NV",Syrups,Chocolate Sauce,pump,131.0,12
+"Qargo Coffee Las Vegas, NV",Syrups,Coconut Syrup,pump,139.5,12
+"Qargo Coffee Las Vegas, NV",Syrups,Dragon Fruit Syrup,pump,53.4,12
+"Qargo Coffee Las Vegas, NV",Syrups,Hazelnut Syrup,pump,41.55555555555556,12
+"Qargo Coffee Las Vegas, NV",Syrups,Sweetner syrup (optional),pump,56.5,12
+"Qargo Coffee Las Vegas, NV",Syrups,Syrup (Customer's Choice),pump,77.0,12
+"Qargo Coffee Las Vegas, NV",Syrups,Syrup (Optional),pump,996.9166666666666,12
+"Qargo Coffee Las Vegas, NV",Syrups,Vanilla Syrup,pump,2.0,12
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Coffee,,g,9090.72,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Coffee,,ml,15171.600673500001,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Dairy,Coconut Cold Foam,ml,838.5565925000001,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Dairy,Cold Cappuccino Foam,ml,102.84184625,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Dairy,Cold Milk,ml,14514.9399615,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Dairy,Cream Base,g,10.610833333333334,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Dairy,Greek Yogurt,g,11.342,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Dairy,Milk,ml,40587.72125925,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Dairy,Whipped Cream,ml,6.814210526315789,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Dairy,Whipped Cream (Optional),ml,47.936,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Plastic goods,cup_12oz,cup,6.75,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Plastic goods,cup_16oz,cup,97.3,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Plastic goods,cup_20oz,cup,97.5,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Plastic goods,cup_24oz,cup,51.15,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Plastic goods,lid,lid,252.7,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Plastic goods,napkin,napkin,242.55,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Plastic goods,sleeve,sleeve,107.95,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Plastic goods,straw,straw,119.2,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Specialty Milk,Almond Milk,ml,596.23289,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Specialty Milk,Coconut Milk,ml,331.425545,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Syrups,Chocolate Sauce,pump,106.5,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Syrups,Coconut Syrup,pump,50.25,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Syrups,Dragon Fruit Syrup,pump,54.6,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Syrups,Hazelnut Syrup,pump,18.842105263157894,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Syrups,Rose Syrup,pump,5.2,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Syrups,Sweetner syrup (optional),pump,44.2,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Syrups,Syrup (Customer's Choice),pump,53.2,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Syrups,Syrup (Optional),pump,511.7,20
+"Qargo Coffee Meijer #169, Bolingbrook, IL",Syrups,Vanilla Syrup,pump,3.5,20
+"Qargo Coffee Meijer #182, St Charles, IL",Coffee,,g,15272.644999999999,18
+"Qargo Coffee Meijer #182, St Charles, IL",Coffee,,ml,51294.37565166667,18
+"Qargo Coffee Meijer #182, St Charles, IL",Dairy,Coconut Cold Foam,ml,1085.552821527778,18
+"Qargo Coffee Meijer #182, St Charles, IL",Dairy,Cold Cappuccino Foam,ml,110.7527575,18
+"Qargo Coffee Meijer #182, St Charles, IL",Dairy,Cold Milk,ml,18409.56946888889,18
+"Qargo Coffee Meijer #182, St Charles, IL",Dairy,Cream Base,g,16.96264705882353,18
+"Qargo Coffee Meijer #182, St Charles, IL",Dairy,Greek Yogurt,g,23.12388888888889,18
+"Qargo Coffee Meijer #182, St Charles, IL",Dairy,Milk,ml,55800.05199694444,18
+"Qargo Coffee Meijer #182, St Charles, IL",Dairy,Whipped Cream,ml,4.0125,18
+"Qargo Coffee Meijer #182, St Charles, IL",Dairy,Whipped Cream (Optional),ml,69.84722222222223,18
+"Qargo Coffee Meijer #182, St Charles, IL",Plastic goods,cup_12oz,cup,11.11111111111111,18
+"Qargo Coffee Meijer #182, St Charles, IL",Plastic goods,cup_16oz,cup,150.11111111111111,18
+"Qargo Coffee Meijer #182, St Charles, IL",Plastic goods,cup_20oz,cup,183.72222222222223,18
+"Qargo Coffee Meijer #182, St Charles, IL",Plastic goods,cup_24oz,cup,65.88888888888889,18
+"Qargo Coffee Meijer #182, St Charles, IL",Plastic goods,lid,lid,410.8333333333333,18
+"Qargo Coffee Meijer #182, St Charles, IL",Plastic goods,napkin,napkin,390.3888888888889,18
+"Qargo Coffee Meijer #182, St Charles, IL",Plastic goods,sleeve,sleeve,211.72222222222223,18
+"Qargo Coffee Meijer #182, St Charles, IL",Plastic goods,straw,straw,164.22222222222223,18
+"Qargo Coffee Meijer #182, St Charles, IL",Specialty Milk,Almond Milk,ml,444.9887578125,18
+"Qargo Coffee Meijer #182, St Charles, IL",Specialty Milk,Coconut Milk,ml,492.4542253125,18
+"Qargo Coffee Meijer #182, St Charles, IL",Syrups,Chocolate Sauce,pump,166.5,18
+"Qargo Coffee Meijer #182, St Charles, IL",Syrups,Coconut Syrup,pump,63.05555555555556,18
+"Qargo Coffee Meijer #182, St Charles, IL",Syrups,Dragon Fruit Syrup,pump,62.22222222222222,18
+"Qargo Coffee Meijer #182, St Charles, IL",Syrups,Hazelnut Syrup,pump,14.0625,18
+"Qargo Coffee Meijer #182, St Charles, IL",Syrups,Sweetner syrup (optional),pump,23.0,18
+"Qargo Coffee Meijer #182, St Charles, IL",Syrups,Syrup (Customer's Choice),pump,49.55555555555556,18
+"Qargo Coffee Meijer #182, St Charles, IL",Syrups,Syrup (Optional),pump,1022.6666666666666,18
+"Qargo Coffee Meijer #182, St Charles, IL",Syrups,Vanilla Syrup,pump,3.0,18
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Coffee,,g,10831.396,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Coffee,,ml,18766.479245500002,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Dairy,Coconut Cold Foam,ml,806.9129475000001,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Dairy,Cold Cappuccino Foam,ml,107.10156769230768,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Dairy,Cold Milk,ml,14410.515932999999,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Dairy,Cream Base,g,17.414250000000003,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Dairy,Greek Yogurt,g,12.305,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Dairy,Milk,ml,38902.697163,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Dairy,Whipped Cream,ml,2.4074999999999998,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Dairy,Whipped Cream (Optional),ml,40.981,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Plastic goods,cup_12oz,cup,12.15,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Plastic goods,cup_16oz,cup,84.05,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Plastic goods,cup_20oz,cup,113.85,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Plastic goods,cup_24oz,cup,52.95,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Plastic goods,lid,lid,263.0,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Plastic goods,napkin,napkin,249.2,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Plastic goods,sleeve,sleeve,116.3,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Plastic goods,straw,straw,119.8,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Specialty Milk,Almond Milk,ml,471.4903105,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Specialty Milk,Coconut Milk,ml,500.71414735294115,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Syrups,Chocolate Sauce,pump,96.0,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Syrups,Coconut Syrup,pump,49.95,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Syrups,Dragon Fruit Syrup,pump,32.526315789473685,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Syrups,Hazelnut Syrup,pump,14.9,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Syrups,Rose Syrup,pump,7.857142857142857,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Syrups,Sweetner syrup (optional),pump,27.55,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Syrups,Syrup (Customer's Choice),pump,40.25,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Syrups,Syrup (Optional),pump,624.85,20
+"Qargo Coffee Meijer #215, Bolingbrook, IL",Syrups,Vanilla Syrup,pump,4.8,20
+"Qargo Coffee Orland Park, IL",Coffee,,g,46103.8925,17
+"Qargo Coffee Orland Park, IL",Coffee,,ml,38855.5784825,17
+"Qargo Coffee Orland Park, IL",Dairy,Coconut Cold Foam,ml,4825.6558625,17
+"Qargo Coffee Orland Park, IL",Dairy,Cold Cappuccino Foam,ml,515.3393614285714,17
+"Qargo Coffee Orland Park, IL",Dairy,Cold Milk,ml,94728.415672,17
+"Qargo Coffee Orland Park, IL",Dairy,Cream Base,g,85.60000000000001,17
+"Qargo Coffee Orland Park, IL",Dairy,Greek Yogurt,g,26.902857142857147,17
+"Qargo Coffee Orland Park, IL",Dairy,Milk,ml,128756.0137771875,17
+"Qargo Coffee Orland Park, IL",Dairy,Whipped Cream,ml,15.425833333333335,17
+"Qargo Coffee Orland Park, IL",Dairy,Whipped Cream (Optional),ml,150.18214285714288,17
+"Qargo Coffee Orland Park, IL",Plastic goods,cup_12oz,cup,54.285714285714285,17
+"Qargo Coffee Orland Park, IL",Plastic goods,cup_16oz,cup,397.53333333333336,17
+"Qargo Coffee Orland Park, IL",Plastic goods,cup_20oz,cup,384.70588235294116,17
+"Qargo Coffee Orland Park, IL",Plastic goods,cup_24oz,cup,140.86666666666667,17
+"Qargo Coffee Orland Park, IL",Plastic goods,lid,lid,904.4705882352941,17
+"Qargo Coffee Orland Park, IL",Plastic goods,napkin,napkin,895.7647058823529,17
+"Qargo Coffee Orland Park, IL",Plastic goods,sleeve,sleeve,323.1764705882353,17
+"Qargo Coffee Orland Park, IL",Plastic goods,straw,straw,586.2666666666667,17
+"Qargo Coffee Orland Park, IL",Specialty Milk,Almond Milk,ml,2246.698795,17
+"Qargo Coffee Orland Park, IL",Specialty Milk,Coconut Milk,ml,1805.9480253571426,17
+"Qargo Coffee Orland Park, IL",Syrups,Chocolate Sauce,pump,303.57142857142856,17
+"Qargo Coffee Orland Park, IL",Syrups,Coconut Syrup,pump,273.6923076923077,17
+"Qargo Coffee Orland Park, IL",Syrups,Dragon Fruit Syrup,pump,136.2,17
+"Qargo Coffee Orland Park, IL",Syrups,Hazelnut Syrup,pump,71.0,17
+"Qargo Coffee Orland Park, IL",Syrups,Rose Syrup,pump,4.5,17
+"Qargo Coffee Orland Park, IL",Syrups,Sweetner syrup (optional),pump,123.46666666666667,17
+"Qargo Coffee Orland Park, IL",Syrups,Syrup (Customer's Choice),pump,228.78571428571428,17
+"Qargo Coffee Orland Park, IL",Syrups,Syrup (Optional),pump,2359.176470588235,17
+"Qargo Coffee Orland Park, IL",Syrups,Vanilla Syrup,pump,2.0,17
+"Qargo Coffee San Antonio, TX",Coffee,,g,40634.988750000004,20
+"Qargo Coffee San Antonio, TX",Coffee,,ml,21788.979989,20
+"Qargo Coffee San Antonio, TX",Dairy,Coconut Cold Foam,ml,2749.041659375,20
+"Qargo Coffee San Antonio, TX",Dairy,Cold Cappuccino Foam,ml,278.46407600000003,20
+"Qargo Coffee San Antonio, TX",Dairy,Cold Milk,ml,101082.459588,20
+"Qargo Coffee San Antonio, TX",Dairy,Cream Base,g,27.713,20
+"Qargo Coffee San Antonio, TX",Dairy,Greek Yogurt,g,16.5315,20
+"Qargo Coffee San Antonio, TX",Dairy,Milk,ml,118712.71639975,20
+"Qargo Coffee San Antonio, TX",Dairy,Whipped Cream,ml,10.165000000000001,20
+"Qargo Coffee San Antonio, TX",Dairy,Whipped Cream (Optional),ml,96.83500000000001,20
+"Qargo Coffee San Antonio, TX",Plastic goods,cup_12oz,cup,43.15,20
+"Qargo Coffee San Antonio, TX",Plastic goods,cup_16oz,cup,338.85,20
+"Qargo Coffee San Antonio, TX",Plastic goods,cup_20oz,cup,348.6,20
+"Qargo Coffee San Antonio, TX",Plastic goods,cup_24oz,cup,124.05,20
+"Qargo Coffee San Antonio, TX",Plastic goods,lid,lid,854.65,20
+"Qargo Coffee San Antonio, TX",Plastic goods,napkin,napkin,830.45,20
+"Qargo Coffee San Antonio, TX",Plastic goods,sleeve,sleeve,302.75,20
+"Qargo Coffee San Antonio, TX",Plastic goods,straw,straw,500.4,20
+"Qargo Coffee San Antonio, TX",Specialty Milk,Almond Milk,ml,1286.3141692499998,20
+"Qargo Coffee San Antonio, TX",Specialty Milk,Coconut Milk,ml,911.3369759999999,20
+"Qargo Coffee San Antonio, TX",Syrups,Chocolate Sauce,pump,219.25,20
+"Qargo Coffee San Antonio, TX",Syrups,Coconut Syrup,pump,163.0,20
+"Qargo Coffee San Antonio, TX",Syrups,Dragon Fruit Syrup,pump,70.8,20
+"Qargo Coffee San Antonio, TX",Syrups,Hazelnut Syrup,pump,40.65,20
+"Qargo Coffee San Antonio, TX",Syrups,Pure Cane Syrup,pump,4.0,20
+"Qargo Coffee San Antonio, TX",Syrups,Rose Syrup,pump,14.909090909090908,20
+"Qargo Coffee San Antonio, TX",Syrups,Sweetner syrup (optional),pump,211.45,20
+"Qargo Coffee San Antonio, TX",Syrups,Syrup (Customer's Choice),pump,87.05,20
+"Qargo Coffee San Antonio, TX",Syrups,Syrup (Optional),pump,2210.05,20
+"Qargo Coffee San Antonio, TX",Syrups,Vanilla Syrup,pump,10.5,20
+"Qargo Coffee St Louis, MO",Coffee,,g,10527.4625,6
+"Qargo Coffee St Louis, MO",Coffee,,ml,7269.006301666667,6
+"Qargo Coffee St Louis, MO",Dairy,Coconut Cold Foam,ml,1265.7458000000001,6
+"Qargo Coffee St Louis, MO",Dairy,Cold Cappuccino Foam,ml,126.57458,6
+"Qargo Coffee St Louis, MO",Dairy,Cold Milk,ml,19787.826006666666,6
+"Qargo Coffee St Louis, MO",Dairy,Cream Base,g,37.449999999999996,6
+"Qargo Coffee St Louis, MO",Dairy,Greek Yogurt,g,17.833333333333332,6
+"Qargo Coffee St Louis, MO",Dairy,Milk,ml,37335.545644375,6
+"Qargo Coffee St Louis, MO",Dairy,Whipped Cream (Optional),ml,65.27,6
+"Qargo Coffee St Louis, MO",Plastic goods,cup_12oz,cup,14.333333333333334,6
+"Qargo Coffee St Louis, MO",Plastic goods,cup_16oz,cup,109.33333333333333,6
+"Qargo Coffee St Louis, MO",Plastic goods,cup_20oz,cup,79.83333333333333,6
+"Qargo Coffee St Louis, MO",Plastic goods,cup_24oz,cup,43.333333333333336,6
+"Qargo Coffee St Louis, MO",Plastic goods,lid,lid,163.33333333333334,6
+"Qargo Coffee St Louis, MO",Plastic goods,napkin,napkin,157.83333333333334,6
+"Qargo Coffee St Louis, MO",Plastic goods,sleeve,sleeve,70.33333333333333,6
+"Qargo Coffee St Louis, MO",Plastic goods,straw,straw,155.0,6
+"Qargo Coffee St Louis, MO",Specialty Milk,Almond Milk,ml,300.6146275,6
+"Qargo Coffee St Louis, MO",Specialty Milk,Coconut Milk,ml,553.7637875,6
+"Qargo Coffee St Louis, MO",Syrups,Chocolate Sauce,pump,129.66666666666666,6
+"Qargo Coffee St Louis, MO",Syrups,Coconut Syrup,pump,74.0,6
+"Qargo Coffee St Louis, MO",Syrups,Dragon Fruit Syrup,pump,62.666666666666664,6
+"Qargo Coffee St Louis, MO",Syrups,Hazelnut Syrup,pump,9.5,6
+"Qargo Coffee St Louis, MO",Syrups,Sweetner syrup (optional),pump,71.0,6
+"Qargo Coffee St Louis, MO",Syrups,Syrup (Customer's Choice),pump,75.0,6
+"Qargo Coffee St Louis, MO",Syrups,Syrup (Optional),pump,326.0,6
+"Qargo Coffee St Petersburg, FL",Coffee,,g,9853.28225,20
+"Qargo Coffee St Petersburg, FL",Coffee,,ml,15311.153711500001,20
+"Qargo Coffee St Petersburg, FL",Dairy,Coconut Cold Foam,ml,435.10011875000004,20
+"Qargo Coffee St Petersburg, FL",Dairy,Cold Cappuccino Foam,ml,112.51073777777778,20
+"Qargo Coffee St Petersburg, FL",Dairy,Cold Milk,ml,17081.239571000002,20
+"Qargo Coffee St Petersburg, FL",Dairy,Cream Base,g,9.362499999999999,20
+"Qargo Coffee St Petersburg, FL",Dairy,Greek Yogurt,g,5.944444444444445,20
+"Qargo Coffee St Petersburg, FL",Dairy,Milk,ml,28006.999098374996,20
+"Qargo Coffee St Petersburg, FL",Dairy,Whipped Cream,ml,1.7120000000000002,20
+"Qargo Coffee St Petersburg, FL",Dairy,Whipped Cream (Optional),ml,19.9555,20
+"Qargo Coffee St Petersburg, FL",Plastic goods,cup_12oz,cup,24.333333333333332,20
+"Qargo Coffee St Petersburg, FL",Plastic goods,cup_16oz,cup,71.3,20
+"Qargo Coffee St Petersburg, FL",Plastic goods,cup_20oz,cup,112.8,20
+"Qargo Coffee St Petersburg, FL",Plastic goods,cup_24oz,cup,21.0,20
+"Qargo Coffee St Petersburg, FL",Plastic goods,lid,lid,227.0,20
+"Qargo Coffee St Petersburg, FL",Plastic goods,napkin,napkin,200.95,20
+"Qargo Coffee St Petersburg, FL",Plastic goods,sleeve,sleeve,96.55,20
+"Qargo Coffee St Petersburg, FL",Plastic goods,straw,straw,100.5,20
+"Qargo Coffee St Petersburg, FL",Specialty Milk,Almond Milk,ml,326.3250890625,20
+"Qargo Coffee St Petersburg, FL",Specialty Milk,Coconut Milk,ml,359.946461875,20
+"Qargo Coffee St Petersburg, FL",Syrups,Chocolate Sauce,pump,49.15,20
+"Qargo Coffee St Petersburg, FL",Syrups,Coconut Syrup,pump,20.714285714285715,20
+"Qargo Coffee St Petersburg, FL",Syrups,Dragon Fruit Syrup,pump,28.0,20
+"Qargo Coffee St Petersburg, FL",Syrups,Hazelnut Syrup,pump,10.3125,20
+"Qargo Coffee St Petersburg, FL",Syrups,Pure Cane Syrup,pump,4.0,20
+"Qargo Coffee St Petersburg, FL",Syrups,Rose Syrup,pump,5.4,20
+"Qargo Coffee St Petersburg, FL",Syrups,Sweetner syrup (optional),pump,26.833333333333332,20
+"Qargo Coffee St Petersburg, FL",Syrups,Syrup (Customer's Choice),pump,18.352941176470587,20
+"Qargo Coffee St Petersburg, FL",Syrups,Syrup (Optional),pump,628.85,20
+"Qargo Coffee St Petersburg, FL",Syrups,Vanilla Syrup,pump,3.25,20
+"Qargo Coffee Tampa, FL",Coffee,,g,49613.25175,20
+"Qargo Coffee Tampa, FL",Coffee,,ml,86388.73776700001,20
+"Qargo Coffee Tampa, FL",Dairy,Coconut Cold Foam,ml,2021.2378243750002,20
+"Qargo Coffee Tampa, FL",Dairy,Cold Cappuccino Foam,ml,534.7776005,20
+"Qargo Coffee Tampa, FL",Dairy,Cold Milk,ml,67432.607495,20
+"Qargo Coffee Tampa, FL",Dairy,Cream Base,g,32.5815,20
+"Qargo Coffee Tampa, FL",Dairy,Greek Yogurt,g,28.996999999999996,20
+"Qargo Coffee Tampa, FL",Dairy,Milk,ml,136157.066797125,20
+"Qargo Coffee Tampa, FL",Dairy,Whipped Cream,ml,1.5285714285714287,20
+"Qargo Coffee Tampa, FL",Dairy,Whipped Cream (Optional),ml,120.58900000000001,20
+"Qargo Coffee Tampa, FL",Plastic goods,cup_12oz,cup,104.3,20
+"Qargo Coffee Tampa, FL",Plastic goods,cup_16oz,cup,431.45,20
+"Qargo Coffee Tampa, FL",Plastic goods,cup_20oz,cup,420.1,20
+"Qargo Coffee Tampa, FL",Plastic goods,cup_24oz,cup,110.65,20
+"Qargo Coffee Tampa, FL",Plastic goods,lid,lid,1066.5,20
+"Qargo Coffee Tampa, FL",Plastic goods,napkin,napkin,962.25,20
+"Qargo Coffee Tampa, FL",Plastic goods,sleeve,sleeve,525.3,20
+"Qargo Coffee Tampa, FL",Plastic goods,straw,straw,419.35,20
+"Qargo Coffee Tampa, FL",Specialty Milk,Coconut Milk,ml,139.23203800000002,20
+"Qargo Coffee Tampa, FL",Syrups,Chocolate Sauce,pump,256.7,20
+"Qargo Coffee Tampa, FL",Syrups,Coconut Syrup,pump,116.15,20
+"Qargo Coffee Tampa, FL",Syrups,Dragon Fruit Syrup,pump,74.05,20
+"Qargo Coffee Tampa, FL",Syrups,Rose Syrup,pump,4.285714285714286,20
+"Qargo Coffee Tampa, FL",Syrups,Sweetner syrup (optional),pump,90.84210526315789,20
+"Qargo Coffee Tampa, FL",Syrups,Syrup (Customer's Choice),pump,119.15,20
+"Qargo Coffee Tampa, FL",Syrups,Syrup (Optional),pump,2931.75,20
+"Qargo Coffee Tampa, FL",Syrups,Vanilla Syrup,pump,5.5,20
+"Qargo Coffee Washington, DC (Lafayette)",Coffee,,g,22406.7095,20
+"Qargo Coffee Washington, DC (Lafayette)",Coffee,,ml,69254.20909300001,20
+"Qargo Coffee Washington, DC (Lafayette)",Dairy,Coconut Cold Foam,ml,766.1093,20
+"Qargo Coffee Washington, DC (Lafayette)",Dairy,Cold Cappuccino Foam,ml,92.05424,20
+"Qargo Coffee Washington, DC (Lafayette)",Dairy,Cold Milk,ml,13989.6554545,20
+"Qargo Coffee Washington, DC (Lafayette)",Dairy,Cream Base,g,13.981333333333334,20
+"Qargo Coffee Washington, DC (Lafayette)",Dairy,Greek Yogurt,g,10.878333333333334,20
+"Qargo Coffee Washington, DC (Lafayette)",Dairy,Milk,ml,86745.515129625,20
+"Qargo Coffee Washington, DC (Lafayette)",Dairy,Whipped Cream,ml,1.07,20
+"Qargo Coffee Washington, DC (Lafayette)",Dairy,Whipped Cream (Optional),ml,42.853500000000004,20
+"Qargo Coffee Washington, DC (Lafayette)",Plastic goods,cup_12oz,cup,53.6,20
+"Qargo Coffee Washington, DC (Lafayette)",Plastic goods,cup_16oz,cup,329.95,20
+"Qargo Coffee Washington, DC (Lafayette)",Plastic goods,cup_20oz,cup,151.3,20
+"Qargo Coffee Washington, DC (Lafayette)",Plastic goods,cup_24oz,cup,23.55,20
+"Qargo Coffee Washington, DC (Lafayette)",Plastic goods,lid,lid,558.4,20
+"Qargo Coffee Washington, DC (Lafayette)",Plastic goods,napkin,napkin,509.9,20
+"Qargo Coffee Washington, DC (Lafayette)",Plastic goods,sleeve,sleeve,391.35,20
+"Qargo Coffee Washington, DC (Lafayette)",Plastic goods,straw,straw,112.95,20
+"Qargo Coffee Washington, DC (Lafayette)",Specialty Milk,Almond Milk,ml,379.72374,20
+"Qargo Coffee Washington, DC (Lafayette)",Specialty Milk,Coconut Milk,ml,339.45000999999996,20
+"Qargo Coffee Washington, DC (Lafayette)",Syrups,Chocolate Sauce,pump,85.95,20
+"Qargo Coffee Washington, DC (Lafayette)",Syrups,Coconut Syrup,pump,39.21052631578947,20
+"Qargo Coffee Washington, DC (Lafayette)",Syrups,Dragon Fruit Syrup,pump,25.0,20
+"Qargo Coffee Washington, DC (Lafayette)",Syrups,Hazelnut Syrup,pump,12.0,20
+"Qargo Coffee Washington, DC (Lafayette)",Syrups,Pure Cane Syrup,pump,3.0,20
+"Qargo Coffee Washington, DC (Lafayette)",Syrups,Sweetner syrup (optional),pump,13.4,20
+"Qargo Coffee Washington, DC (Lafayette)",Syrups,Syrup (Customer's Choice),pump,33.44444444444444,20
+"Qargo Coffee Washington, DC (Lafayette)",Syrups,Syrup (Optional),pump,1538.6,20
+"Qargo Coffee Washington, DC (Lafayette)",Syrups,Vanilla Syrup,pump,2.3333333333333335,20
+"Qargo Coffee Westerville, OH",Coffee,,g,27403.9305,20
+"Qargo Coffee Westerville, OH",Coffee,,ml,45627.041757,20
+"Qargo Coffee Westerville, OH",Dairy,Coconut Cold Foam,ml,1131.26030875,20
+"Qargo Coffee Westerville, OH",Dairy,Cold Cappuccino Foam,ml,122.35542733333334,20
+"Qargo Coffee Westerville, OH",Dairy,Cold Milk,ml,46281.995177,20
+"Qargo Coffee Westerville, OH",Dairy,Cream Base,g,16.478,20
+"Qargo Coffee Westerville, OH",Dairy,Greek Yogurt,g,8.8275,20
+"Qargo Coffee Westerville, OH",Dairy,Milk,ml,89643.2819205,20
+"Qargo Coffee Westerville, OH",Dairy,Whipped Cream,ml,1.3375000000000001,20
+"Qargo Coffee Westerville, OH",Dairy,Whipped Cream (Optional),ml,72.0645,20
+"Qargo Coffee Westerville, OH",Plastic goods,cup_12oz,cup,21.6,20
+"Qargo Coffee Westerville, OH",Plastic goods,cup_16oz,cup,240.75,20
+"Qargo Coffee Westerville, OH",Plastic goods,cup_20oz,cup,189.9,20
+"Qargo Coffee Westerville, OH",Plastic goods,cup_24oz,cup,119.8,20
+"Qargo Coffee Westerville, OH",Plastic goods,lid,lid,572.05,20
+"Qargo Coffee Westerville, OH",Plastic goods,napkin,napkin,548.85,20
+"Qargo Coffee Westerville, OH",Plastic goods,sleeve,sleeve,292.6,20
+"Qargo Coffee Westerville, OH",Plastic goods,straw,straw,247.35,20
+"Qargo Coffee Westerville, OH",Specialty Milk,Almond Milk,ml,640.78381125,20
+"Qargo Coffee Westerville, OH",Specialty Milk,Coconut Milk,ml,452.5041235,20
+"Qargo Coffee Westerville, OH",Syrups,Chocolate Sauce,pump,176.4,20
+"Qargo Coffee Westerville, OH",Syrups,Cinnamon Syrup,pump,3.0,20
+"Qargo Coffee Westerville, OH",Syrups,Coconut Syrup,pump,69.25,20
+"Qargo Coffee Westerville, OH",Syrups,Dragon Fruit Syrup,pump,32.85,20
+"Qargo Coffee Westerville, OH",Syrups,Ginger Syrup,pump,3.0,20
+"Qargo Coffee Westerville, OH",Syrups,Hazelnut Syrup,pump,20.25,20
+"Qargo Coffee Westerville, OH",Syrups,Pure Cane Syrup,pump,3.25,20
+"Qargo Coffee Westerville, OH",Syrups,Rose Syrup,pump,7.5,20
+"Qargo Coffee Westerville, OH",Syrups,Sweetner syrup (optional),pump,64.8,20
+"Qargo Coffee Westerville, OH",Syrups,Syrup (Customer's Choice),pump,46.0,20
+"Qargo Coffee Westerville, OH",Syrups,Syrup (Optional),pump,1660.75,20
+"Qargo Coffee Westerville, OH",Syrups,Vanilla Syrup,pump,5.5,20

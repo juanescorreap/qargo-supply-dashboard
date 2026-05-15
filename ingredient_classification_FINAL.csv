@@ -2,8 +2,8 @@ ingredient,category,unit_base,notes
 "Add Ons:
 Caramel Sauce
 Chocolate Sauce
-White Chocolate Sauce",Other,pump,Topping sauce
-Almond Milk,Dairy,ml,Plant-based milk alternative
+White Chocolate Sauce",Syrups,pump,Topping sauce
+Almond Milk,Specialty Milk,ml,Plant-based milk alternative
 Arugula,Other,g,Leafy green
 Avocado,Other,g,Vegetable ingredient
 Bagel,Other,unit,Bread product
@@ -21,16 +21,18 @@ Chai Tea Concentrate,Other,ml,Tea concentrate
 Chia Seeds,Other,g,Nutritional add-on
 Chocolate Gelato,Other,g,Ice cream product
 Chocolate Powder,Other,g,Cocoa powder for drinks
-Chocolate Sauce,Other,pump,Topping sauce
+Chocolate Sauce,Syrups,pump,Topping sauce
 "Choice of Bread 
 (Butter Croissant or Bagel)",Dairy,g,Cooking fat
 Cinnamon Powder,Other,g,Spice
-Cinnamon Syrup,Other,g,Spice
+Cinnamon Syrup,Syrups,pump,Flavor syrup
 Club Soda,Other,ml,Carbonated water - exclude from supply calc
 Coconut Cold Foam,Dairy,ml,Frothed milk topping
 Coconut Flakes,Other,g,Topping
-Coconut Milk,Dairy,ml,Plant-based milk alternative
-Coconut Syrup,Other,pump,Auto-classified - flavoring
+Coconut Milk,Specialty Milk,ml,Plant-based milk alternative
+Oat Milk,Specialty Milk,ml,Plant-based milk alternative
+Soy Milk,Specialty Milk,ml,Plant-based milk alternative
+Coconut Syrup,Syrups,pump,Flavor syrup
 Cold Brew,Coffee,ml,Cold brew base
 Cold Cappuccino Foam,Dairy,ml,Cold foam topping
 Cold Coffee,Coffee,ml,Auto-classified as coffee
@@ -43,7 +45,7 @@ Crumbled Blue Cheese,Dairy,ml,Auto-classified as dairy
 Crushed Oreo,Other,g,Cookie topping
 Crushed Oreo (Topping),Other,g,Cookie topping
 Crushed Pistachio,Other,g,Nut topping
-Dragon Fruit Syrup,Other,pump,Auto-classified - flavoring
+Dragon Fruit Syrup,Syrups,pump,Flavor syrup
 Dried Oregano,Other,g,Herb seasoning
 Dried oregano,Other,g,Herb seasoning
 Espreso,Coffee,g,Typo: should be Espresso
@@ -58,12 +60,12 @@ Fresh Mozzarella,Dairy,g,Fresh cheese
 (Flavor of choice)",Other,g,Ice cream product
 "Gelato in Cup
 (Flavor of choice)",Other,g,Ice cream product
-Ginger Syrup,Other,pump,Auto-classified - flavoring
+Ginger Syrup,Syrups,pump,Flavor syrup
 Greek Yogurt,Dairy,g,Yogurt
 Green Tea * (Not for Kids),Other,bag,Tea ingredient
 Grilled Chicken Breast,Other,g,Protein
 Ground Espresso,Coffee,g,"Shot: 28g Standard, 42.5g Lungo"
-Hazelnut Syrup,Other,pump,Flavor syrup
+Hazelnut Syrup,Syrups,pump,Flavor syrup
 Honey Oat Granola,Other,ml,Sweetener
 Hot Water,Other,ml,Water - typically excluded from supply calc
 Hot Water for Syrup,Other,ml,Water - typically excluded from supply calc
@@ -98,14 +100,14 @@ Pina Colada Fruit Fusion,Other,ml,Fruit mix concentrate
 Pinsa / Ciabatta,Other,unit,Bread product
 Pinsa / Focaccia,Other,unit,Bread product
 Prosciutto,Other,g,Protein
-Pure Cane Syrup,Other,pump,Auto-classified - flavoring
+Pure Cane Syrup,Syrups,pump,Flavor syrup
 Roasted Bell Peppers,Other,g,Seasoning
-Rose Syrup,Other,pump,Auto-classified - flavoring
+Rose Syrup,Syrups,pump,Flavor syrup
 Salt,Other,g,Seasoning
 "Sauce
-(Flavor of choice)",Other,pump,Auto-classified - flavoring
+(Flavor of choice)",Syrups,pump,Flavor syrup
 "Sauce Options
-(As requested by the customer)",Other,pump,Auto-classified - flavoring
+(As requested by the customer)",Syrups,pump,Flavor syrup
 Scrambled Egg Patty,Other,unit,Protein
 Seasoning Mix,Other,g,Spice blend
 Sliced Cheddar Cheese,Dairy,ml,Auto-classified as dairy
@@ -119,9 +121,9 @@ Standard Espresso Shot,Coffee,g,"Shot: 28g Standard, 42.5g Lungo"
 Strawberry Fruit Fusion,Other,g,Fruit ingredient
 Strawberry Fruit Puree,Other,g,Fruit ingredient
 Sweet Potato Puree,Other,g,Vegetable puree
-Sweetner syrup (optional),Other,pump,Flavor syrup - not core supply
-Syrup (Customer's Choice),Other,pump,Auto-classified - flavoring
-Syrup (Optional),Other,pump,Flavor syrup - not core supply
+Sweetner syrup (optional),Syrups,pump,Flavor syrup
+Syrup (Customer's Choice),Syrups,pump,Flavor syrup
+Syrup (Optional),Syrups,pump,Flavor syrup
 Tapioca Pearls,Other,g,Boba topping
 Taro Powder,Other,g,Taro flavoring powder
 Tea Bag,Other,bag,Tea ingredient
@@ -129,13 +131,13 @@ Turkey Bacon,Other,g,Protein
 Turkey Sausage Patty,Other,g,Protein
 Vanilla Gelato,Other,g,Ice cream product
 Vanilla Powder,Other,g,Vanilla flavoring
-Vanilla Syrup,Other,pump,Flavor syrup
+Vanilla Syrup,Syrups,pump,Flavor syrup
 Water,Other,ml,Water - typically excluded from supply calc
 Water for Cooking,Other,ml,Water - typically excluded from supply calc
 Watermelon Fruit Fusion,Other,ml,Water - typically excluded from supply calc
 Whey Protein (Add On),Other,g,Protein supplement add-on
 Whipped Cream,Dairy,ml,Optional topping
 Whipped Cream (Optional),Dairy,ml,Optional topping
-White Chocolate Sauce,Other,pump,Topping sauce
+White Chocolate Sauce,Syrups,pump,Topping sauce
 White Lotus,Other,ml,Energy drink ingredient
 White Lotus* (Not for Kids),Other,ml,Energy drink ingredient
