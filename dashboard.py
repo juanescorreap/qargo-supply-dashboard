@@ -3,6 +3,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 from pathlib import Path
+from datetime import datetime
 
 st.set_page_config(
     page_title="Qargo Coffee — Supply Dashboard",
@@ -12,7 +13,7 @@ st.set_page_config(
 
 BASE_DIR = Path(__file__).parent
 MIN_RELIABLE_WEEKS = 8
-EXCLUDED_STORES = ['183', 'Nashua', 'Lab-01']
+EXCLUDED_STORES = ['183', 'Nashua']
 
 CATEGORY_LABELS = {
     ("Coffee", "g"):              "Espresso & Ground Coffee (kg)",
@@ -145,10 +146,16 @@ with st.sidebar:
     selected_store = st.selectbox("Store", store_options)
 
     all_weeks = sorted(detail_df["week"].unique())
+
+    def _fmt_week(w):
+        d = datetime.strptime(w.split("/")[0], "%Y-%m-%d")
+        return d.strftime("%b %-d")
+
     week_start, week_end = st.select_slider(
         "Week range",
         options=all_weeks,
         value=(all_weeks[0], all_weeks[-1]),
+        format_func=_fmt_week,
     )
 
     show_waste   = st.toggle("Include waste (7%)", value=True)

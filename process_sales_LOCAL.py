@@ -55,7 +55,7 @@ WASTE_PERCENTAGE = 0.07
 MIN_RELIABLE_WEEKS = 8
 
 # Tiendas excluidas completamente del análisis
-EXCLUDED_STORES = ['183', 'Nashua', 'Lab-01']
+EXCLUDED_STORES = ['183', 'Nashua']
 
 CATEGORY_DISPLAY = {
     ('Coffee', 'g'):           'Café Espresso / Molido (kg)',
